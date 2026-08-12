@@ -1,0 +1,4 @@
+order_id,product_name,category,quantity,unit_price,order_date
+ORD1001,Spaghetti,Pasta,1,1.79,2025-03-14
+ORD1001,Marinara Sauce,Pasta,2,3.49,2025-03-14
+ORD1002,Diapers,Baby,1,19.99,2025-03-20

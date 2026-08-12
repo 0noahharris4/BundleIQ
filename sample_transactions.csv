@@ -1,0 +1,2212 @@
+order_id,product_name,category,quantity,unit_price,order_date
+ORD00001,Bananas,Produce,1,1.79,2025-11-30
+ORD00001,Diapers,Baby,1,19.99,2025-11-30
+ORD00002,Salsa,Mexican,1,3.49,2025-08-24
+ORD00002,Sour Cream,Dairy,1,2.29,2025-08-24
+ORD00002,Shredded Cheese,Dairy,1,4.29,2025-08-24
+ORD00002,Tortillas,Mexican,1,2.99,2025-08-24
+ORD00002,Ground Beef,Meat,1,6.49,2025-08-24
+ORD00003,Creamer,Breakfast,1,3.29,2025-09-13
+ORD00003,Eggs,Breakfast,1,3.49,2025-09-13
+ORD00003,Burger Buns,Bakery,1,2.79,2025-09-13
+ORD00003,Milk,Breakfast,1,3.19,2025-09-13
+ORD00003,Coffee Filters,Breakfast,1,2.49,2025-09-13
+ORD00003,Coffee Beans,Beverages,1,8.99,2025-09-13
+ORD00003,Potato Chips,Snacks,1,3.99,2025-09-13
+ORD00004, Parmesan Cheese ,Pasta,1,4.99,2025-05-15
+ORD00004,Spaghetti,Pasta,1,1.79,2025-05-15
+ORD00004,Marinara Sauce,Pasta,1,3.49,2025-05-15
+ORD00004,Coffee Beans,Beverages,2,8.99,2025-05-15
+ORD00004,Garlic Bread,Pasta,1,3.29,2025-05-15
+ORD00005,toilet paper,Personal Care,2,8.99,2025-06-13
+ORD00006,Paper Towels,Cleaning,1,5.49,2025-01-10
+ORD00006,Laundry Detergent,Cleaning,1,8.99,2025-01-10
+ORD00006,Trash Bags,Cleaning,1,6.49,2025-01-10
+ORD00006,Marinara Sauce,Pasta,1,3.49,2025-01-10
+ORD00007,Bananas,Produce,2,1.79,2025-08-11
+ORD00007,Tomatoes,Produce,2,2.99,2025-08-11
+ORD00007,Lettuce,Produce,1,2.29,2025-08-11
+ORD00008,Ketchup,Condiments,1,2.99,2025-04-18
+ORD00008,Salsa,Mexican,1,3.49,2025-04-18
+ORD00008,Burger Buns,Bakery,1,2.79,2025-04-18
+ORD00008,Mustard,Condiments,1,2.29,2025-04-18
+ORD00008,Potato Chips,Snacks,1,3.99,2025-04-18
+ORD00008,Ground Beef,Meat,2,6.49,2025-04-18
+ORD00009,Salsa,Mexican,1,3.49,2025-09-18
+ORD00009,Lime,Produce,1,0.59,2025-09-18
+ORD00009,Sour Cream,Dairy,1,2.29,2025-09-18
+ORD00009,Shredded Cheese,Dairy,1,4.29,2025-09-18
+ORD00009,Tortillas,Mexican,2,2.99,2025-09-18
+ORD00010,Avocado,Produce,1,1.29,2025-04-11
+ORD00010,Charcoal,Outdoor,2,7.99,2025-04-11
+ORD00010,Bananas,Produce,1,1.79,2025-04-11
+ORD00010,Apples,Produce,1,3.99,2025-04-11
+ORD00010,Lettuce,Produce,2,2.29,2025-04-11
+ORD00011,Butter,Breakfast,1,3.79,2025-01-24
+ORD00011,Eggs,Breakfast,1,3.49,2025-01-24
+ORD00011,Orange Juice,Beverages,2,4.49,2025-01-24
+ORD00012,Apples,Produce,2,3.99,2025-11-14
+ORD00012,Soda,Beverages,2,4.99,2025-11-14
+ORD00012,Lettuce,Produce,2,2.29,2025-11-14
+ORD00013,Bananas,Produce,1,1.79,2025-02-09
+ORD00013,Avocado,Produce,2,1.29,2025-02-09
+ORD00013,Tomatoes,Produce,2,2.99,2025-02-09
+ORD00014,tortillas,Mexican,1,2.99,2025-09-24
+ORD00014,Salsa,Mexican,2,3.49,2025-09-24
+ORD00014,Shredded Cheese,Dairy,1,4.29,2025-09-24
+ORD00014,Ground Beef,Meat,1,6.49,2025-09-24
+ORD00015,Marinara Sauce,Pasta,1,3.49,2025-12-22
+ORD00015,Spaghetti,Pasta,1,1.79,2025-12-22
+ORD00015,Garlic Bread,Pasta,1,3.29,2025-12-22
+ORD00015,Ground Beef,Meat,1,6.49,2025-12-22
+ORD00016,Marinara Sauce,Pasta,1,3.49,2025-05-13
+ORD00016,Garlic Bread,Pasta,1,3.29,2025-05-13
+ORD00016,Cookies,Snacks,1,3.99,2025-05-13
+ORD00016,Basil,Produce,2,2.19,2025-05-13
+ORD00017,Tortillas,Mexican,2,2.99,2025-02-15
+ORD00017,Shredded Cheese,Dairy,1,4.29,2025-02-15
+ORD00018,Salsa,Mexican,2,3.49,2025-05-24
+ORD00018,Avocado,Produce,2,1.29,2025-05-24
+ORD00018,Tomatoes,Produce,1,2.99,2025-05-24
+ORD00018,Lettuce,Produce,2,2.29,2025-05-24
+ORD00019,Toothpaste,Personal Care,2,3.29,2025-09-04
+ORD00019,Ground Beef,Meat,1,6.49,2025-09-04
+ORD00019,Shampoo,Personal Care,3,5.99,2025-09-04
+ORD00020,Apples,Produce,1,3.99,2025-11-22
+ORD00020,tomatoes,Produce,1,2.99,2025-11-22
+ORD00020,Sour Cream,Dairy,1,2.29,2025-11-22
+ORD00021,Avocado,Produce,1,1.29,2025-02-20
+ORD00021,bananas,Produce,1,1.79,2025-02-20
+ORD00021,Tomatoes,Produce,1,2.99,2025-02-20
+ORD00021,Butter,Breakfast,1,3.79,2025-02-20
+ORD00021,Apples,Produce,1,3.99,2025-02-20
+ORD00021, Lettuce ,Produce,2,2.29,2025-02-20
+ORD00022,Spaghetti,Pasta,1,1.79,2025-12-06
+ORD00022,Soda,Beverages,1,4.99,2025-12-06
+ORD00022,Marinara Sauce,Pasta,1,3.49,2025-12-06
+ORD00022,Burger Buns,Bakery,2,2.79,2025-12-06
+ORD00022,Potato Chips,Snacks,1,3.99,2025-12-06
+ORD00023,Baby Wipes,Baby,1,6.99,2025-08-26
+ORD00023,Trash Bags,Cleaning,3,6.49,2025-08-26
+ORD00023,Soda,Beverages,1,4.99,2025-08-26
+ORD00023,Potato Chips,Snacks,1,3.99,2025-08-26
+ORD00024,Creamer,Breakfast,1,3.29,2025-03-10
+ORD00024,Marinara Sauce,Pasta,1,3.49,2025-03-10
+ORD00024,Milk,Breakfast,1,3.19,2025-03-10
+ORD00024,Tomatoes,Produce,1,2.99,2025-03-10
+ORD00024,Garlic Bread,Pasta,2,3.29,2025-03-10
+ORD00025,creamer,Breakfast,1,3.29,2025-12-21
+ORD00025,PAPER TOWELS,Cleaning,1,5.49,2025-12-21
+ORD00025,Eggs,Breakfast,1,3.49,2025-12-21
+ORD00025,Pretzels,Snacks,1,3.49,2025-12-21
+ORD00025,Coffee Filters,Breakfast,1,2.49,2025-12-21
+ORD00025,Bacon,Breakfast,1,5.99,2025-12-21
+ORD00025,Orange Juice,Beverages,1,4.49,2025-12-21
+ORD00026,Baby Wipes,Baby,1,6.99,2025-02-05
+ORD00027,Coffee Beans,Beverages,1,8.99,2025-06-06
+ORD00027,Eggs,Breakfast,1,3.49,2025-06-06
+ORD00028,Creamer,Breakfast,1,3.29,2025-11-26
+ORD00028,Sponges,Cleaning,1,2.49,2025-11-26
+ORD00029,Salsa,Mexican,1,3.49,2025-07-10
+ORD00029,Lime,Produce,1,0.59,2025-07-10
+ORD00029,Bananas,Produce,1,1.79,2025-07-10
+ORD00029,Tomatoes,Produce,1,2.99,2025-07-10
+ORD00029,Shredded Cheese,Dairy,3,4.29,2025-07-10
+ORD00029, Apples ,Produce,1,3.99,2025-07-10
+ORD00030,Milk,Breakfast,3,3.19,2025-07-15
+ORD00030,Bacon,Breakfast,1,5.99,2025-07-15
+ORD00031,Paper Towels,Cleaning,1,5.49,2025-10-17
+ORD00031,Dish Soap,Cleaning,1,3.29,2025-10-17
+ORD00031,Baby Food,Baby,1,4.99,2025-10-17
+ORD00031,Trash Bags,Cleaning,1,6.49,2025-10-17
+ORD00031,Pretzels,Snacks,1,3.49,2025-10-17
+ORD00032,Parmesan Cheese,Pasta,2,4.99,2025-08-11
+ORD00032,Garlic Bread,Pasta,1,3.29,2025-08-11
+ORD00032,Lime,Produce,1,0.59,2025-08-11
+ORD00033,Butter,Breakfast,1,3.79,2025-06-26
+ORD00033,Cookies,Snacks,1,3.99,2025-06-26
+ORD00033,Potato Chips,Snacks,1,3.99,2025-06-26
+ORD00033,Candy,Snacks,2,2.49,2025-06-26
+ORD00034,Paper Towels,Cleaning,1,5.49,2025-06-09
+ORD00034,Tortillas,Mexican,1,2.99,2025-06-09
+ORD00034,Dish Soap,Cleaning,2,3.29,2025-06-09
+ORD00034,Laundry Detergent,Cleaning,1,8.99,2025-06-09
+ORD00035,Salsa,Mexican,1,3.49,2025-01-23
+ORD00035, Soda ,Beverages,2,4.99,2025-01-23
+ORD00035,Sour Cream,Dairy,1,2.29,2025-01-23
+ORD00035,Shredded Cheese,Dairy,1,4.29,2025-01-23
+ORD00035,Tortillas,Mexican,1,2.99,2025-01-23
+ORD00035,Coffee Beans,Beverages,1,8.99,2025-01-23
+ORD00036,Soda,Beverages,1,4.99,2025-08-08
+ORD00036,Candy,Snacks,2,2.49,2025-08-08
+ORD00037,Marinara Sauce,Pasta,1,3.49,2025-12-16
+ORD00037,Salsa,Mexican,2,3.49,2025-12-16
+ORD00037,Ground Beef,Meat,2,6.49,2025-12-16
+ORD00037,Shampoo,Personal Care,3,5.99,2025-12-16
+ORD00038,Eggs,Breakfast,1,3.49,2025-01-31
+ORD00038,Milk,Breakfast,1,3.19,2025-01-31
+ORD00038,Coffee Filters,Breakfast,2,2.49,2025-01-31
+ORD00038,COFFEE BEANS,Beverages,1,8.99,2025-01-31
+ORD00038,Sponges,Cleaning,1,2.49,2025-01-31
+ORD00038,Potato Chips,Snacks,1,3.99,2025-01-31
+ORD00038,Bread,Breakfast,1,2.99,2025-01-31
+ORD00039,Lime,Produce,1,0.59,2025-01-04
+ORD00039,Salsa,Mexican,1,3.49,2025-01-04
+ORD00039,Sour Cream,Dairy,1,2.29,2025-01-04
+ORD00039,Ground Beef,Meat,1,6.49,2025-01-04
+ORD00040,Paper Towels,Cleaning,1,5.49,2025-01-29
+ORD00040,Dish Soap,Cleaning,1,3.29,2025-01-29
+ORD00040,Laundry Detergent,Cleaning,1,8.99,2025-01-29
+ORD00040,Sponges,Cleaning,1,2.49,2025-01-29
+ORD00040,Trash Bags,Cleaning,1,6.49,2025-01-29
+ORD00041,Spaghetti,Pasta,1,1.79,2025-02-18
+ORD00041,Basil,Produce,1,2.19,2025-02-18
+ORD00041,Ground Beef,Meat,1,6.49,2025-02-18
+ORD00042,Lime,Produce,1,0.59,2025-09-28
+ORD00042,Tortillas,Mexican,1,2.99,2025-09-28
+ORD00042,Salsa,Mexican,1,3.49,2025-09-28
+ORD00042,Ground Beef,Meat,1,6.49,2025-09-28
+ORD00043,Eggs,Breakfast,1,3.49,2025-11-22
+ORD00043,Cereal,Breakfast,1,4.29,2025-11-22
+ORD00043,Coffee Filters,Breakfast,1,2.49,2025-11-22
+ORD00043,Coffee Beans,Beverages,1,8.99,2025-11-22
+ORD00043,Orange Juice,Beverages,1,4.49,2025-11-22
+ORD00044,Creamer,Breakfast,1,3.29,2025-10-03
+ORD00044,Eggs,Breakfast,2,3.49,2025-10-03
+ORD00044,Butter,Breakfast,1,3.79,2025-10-03
+ORD00044,Shampoo,Personal Care,1,5.99,2025-10-03
+ORD00044,Coffee Filters,Breakfast,1,2.49,2025-10-03
+ORD00044,Bacon,Breakfast,1,5.99,2025-10-03
+ORD00044,Bread,Breakfast,3,2.99,2025-10-03
+ORD00045,Apples,Produce,2,3.99,2025-10-02
+ORD00046,Toothpaste,Personal Care,1,3.29,2025-05-30
+ORD00047,Marinara Sauce,Pasta,1,3.49,2025-11-30
+ORD00047,BANANAS,Produce,2,1.79,2025-11-30
+ORD00047,Spaghetti,Pasta,3,1.79,2025-11-30
+ORD00048,BANANAS,Produce,1,1.79,2025-03-26
+ORD00048,Milk,Breakfast,1,3.19,2025-03-26
+ORD00049,Ketchup,Condiments,1,2.99,2025-02-19
+ORD00049,Eggs,Breakfast,1,3.49,2025-02-19
+ORD00049,Cereal,Breakfast,2,4.29,2025-02-19
+ORD00049,Milk,Breakfast,3,3.19,2025-02-19
+ORD00049,Burger Buns,Bakery,2,2.79,2025-02-19
+ORD00049,Coffee Beans,Beverages,2,8.99,2025-02-19
+ORD00049,Orange Juice,Beverages,1,4.49,2025-02-19
+ORD00050,Avocado,Produce,1,1.29,2025-06-17
+ORD00050,Lime,Produce,1,0.59,2025-06-17
+ORD00050,Sour Cream,Dairy,3,2.29,2025-06-17
+ORD00050,Shredded Cheese,Dairy,1,4.29,2025-06-17
+ORD00050,Coffee Beans,Beverages,3,8.99,2025-06-17
+ORD00050,Bacon,Breakfast,2,5.99,2025-06-17
+ORD00051,Avocado,Produce,2,1.29,2025-07-17
+ORD00051,Ground Beef,Meat,2,6.49,2025-07-17
+ORD00051,Lime,Produce,1,0.59,2025-07-17
+ORD00051,Bananas,Produce,1,1.79,2025-07-17
+ORD00051,Baby Wipes,Baby,1,6.99,2025-07-17
+ORD00051,Shredded Cheese,Dairy,1,4.29,2025-07-17
+ORD00051,Tortillas,Mexican,1,2.99,2025-07-17
+ORD00051,Apples,Produce,1,3.99,2025-07-17
+ORD00051,Lettuce,Produce,1,2.29,2025-07-17
+ORD00052,Paper Towels,Cleaning,1,5.49,2025-07-24
+ORD00053,Marinara Sauce,Pasta,2,3.49,2025-06-21
+ORD00053,Spaghetti,Pasta,1,1.79,2025-06-21
+ORD00053,Parmesan Cheese,Pasta,1,4.99,2025-06-21
+ORD00054,Cookies,Snacks,1,3.99,2025-02-09
+ORD00054,Eggs,Breakfast,1,3.49,2025-02-09
+ORD00054,Candy,Snacks,1,2.49,2025-02-09
+ORD00055,Creamer,Breakfast,1,3.29,2025-01-09
+ORD00055,Coffee Beans,Beverages,1,8.99,2025-01-09
+ORD00055,Eggs,Breakfast,1,3.49,2025-01-09
+ORD00055,Bread,Breakfast,1,2.99,2025-01-09
+ORD00056,Charcoal,Outdoor,1,7.99,2025-07-07
+ORD00056,Ketchup,Condiments,1,2.99,2025-07-07
+ORD00056,Ground Beef,Meat,1,6.49,2025-07-07
+ORD00057,Creamer,Breakfast,1,3.29,2025-12-30
+ORD00057,Eggs,Breakfast,1,3.49,2025-12-30
+ORD00057,Toothpaste,Personal Care,1,3.29,2025-12-30
+ORD00057,Cereal,Breakfast,1,4.29,2025-12-30
+ORD00057,Milk,Breakfast,1,3.19,2025-12-30
+ORD00057,Coffee Beans,Beverages,2,8.99,2025-12-30
+ORD00057,Trash Bags,Cleaning,1,6.49,2025-12-30
+ORD00057,Orange Juice,Beverages,3,4.49,2025-12-30
+ORD00058,Bananas,Produce,2,1.79,2025-07-04
+ORD00058,Avocado,Produce,2,1.29,2025-07-04
+ORD00058,Tomatoes,Produce,1,2.99,2025-07-04
+ORD00058,Lettuce,Produce,1,2.29,2025-07-04
+ORD00059,Lime,Produce,1,0.59,2025-07-10
+ORD00059,Tortillas,Mexican,1,2.99,2025-07-10
+ORD00059,Salsa,Mexican,1,3.49,2025-07-10
+ORD00059,Ground Beef,Meat,1,6.49,2025-07-10
+ORD00060,Avocado,Produce,2,1.29,2025-01-27
+ORD00060,Lime,Produce,1,0.59,2025-01-27
+ORD00060,Sour Cream,Dairy,1,2.29,2025-01-27
+ORD00060,Tomatoes,Produce,1,2.99,2025-01-27
+ORD00060,Apples,Produce,1,3.99,2025-01-27
+ORD00061,Cookies,Snacks,1,3.99,2025-09-23
+ORD00061,Candy,Snacks,1,2.49,2025-09-23
+ORD00062,Marinara Sauce,Pasta,1,3.49,2025-07-25
+ORD00062,Spaghetti,Pasta,3,1.79,2025-07-25
+ORD00063,Soda,Beverages,1,4.99,2025-02-28
+ORD00063,Pretzels,Snacks,1,3.49,2025-02-28
+ORD00064,Marinara Sauce,Pasta,1,3.49,2025-02-03
+ORD00064,Avocado,Produce,1,1.29,2025-02-03
+ORD00064,Garlic Bread,Pasta,1,3.29,2025-02-03
+ORD00065,Tomatoes,Produce,1,2.99,2025-08-30
+ORD00066,Burger Buns,Bakery,1,2.79,2025-06-09
+ORD00066,Soap,Personal Care,1,2.99,2025-06-09
+ORD00066,Ketchup,Condiments,2,2.99,2025-06-09
+ORD00066,Potato Chips,Snacks,1,3.99,2025-06-09
+ORD00067,Paper Towels,Cleaning,1,5.49,2025-06-12
+ORD00067,Laundry Detergent,Cleaning,1,8.99,2025-06-12
+ORD00067,Bottled Water,Beverages,1,4.49,2025-06-12
+ORD00067,Trash Bags,Cleaning,1,6.49,2025-06-12
+ORD00068,Ketchup,Condiments,1,2.99,2025-10-29
+ORD00069,Creamer,Breakfast,1,3.29,2025-12-04
+ORD00069,Tortillas,Mexican,1,2.99,2025-12-04
+ORD00069,Salsa,Mexican,3,3.49,2025-12-04
+ORD00069,Sour Cream,Dairy,1,2.29,2025-12-04
+ORD00070,Mustard,Condiments,2,2.29,2025-12-22
+ORD00070,Cookies,Snacks,1,3.99,2025-12-22
+ORD00070,Potato Chips,Snacks,1,3.99,2025-12-22
+ORD00071,Spaghetti,Pasta,1,1.79,2025-09-10
+ORD00071,Tortillas,Mexican,1,2.99,2025-09-10
+ORD00071,Salsa,Mexican,1,3.49,2025-09-10
+ORD00071,Lime,Produce,2,0.59,2025-09-10
+ORD00072,Shampoo,Personal Care,1,5.99,2025-04-06
+ORD00073,Marinara Sauce,Pasta,1,3.49,2025-01-03
+ORD00073,Spaghetti,Pasta,1,1.79,2025-01-03
+ORD00073,Garlic Bread,Pasta,1,3.29,2025-01-03
+ORD00074,Creamer,Breakfast,3,3.29,2025-08-29
+ORD00074,Eggs,Breakfast,1,3.49,2025-08-29
+ORD00074,Butter,Breakfast,1,3.79,2025-08-29
+ORD00074,Bacon,Breakfast,1,5.99,2025-08-29
+ORD00074,Bread,Breakfast,1,2.99,2025-08-29
+ORD00075,Baby Wipes,Baby,1,6.99,2025-11-28
+ORD00075,Diapers,Baby,1,19.99,2025-11-28
+ORD00075,Baby Formula,Baby,1,22.99,2025-11-28
+ORD00076,Mustard,Condiments,1,2.29,2025-09-02
+ORD00076,Shredded Cheese,Dairy,1,4.29,2025-09-02
+ORD00076,Ground Beef,Meat,1,6.49,2025-09-02
+ORD00077,Paper Towels,Cleaning,1,5.49,2025-03-27
+ORD00077,Sponges,Cleaning,1,2.49,2025-03-27
+ORD00077,Dish Soap,Cleaning,2,3.29,2025-03-27
+ORD00077,Salsa,Mexican,1,3.49,2025-03-27
+ORD00078,Laundry Detergent,Cleaning,1,8.99,2025-07-16
+ORD00078,Mustard,Condiments,2,2.29,2025-07-16
+ORD00078,Trash Bags,Cleaning,2,6.49,2025-07-16
+ORD00078,Ground Beef,Meat,2,6.49,2025-07-16
+ORD00079,Butter,Breakfast,1,3.79,2025-11-05
+ORD00079,Coffee Filters,Breakfast,2,2.49,2025-11-05
+ORD00079,Laundry Detergent,Cleaning,1,8.99,2025-11-05
+ORD00079,Bacon,Breakfast,2,5.99,2025-11-05
+ORD00079,Ground Beef,Meat,1,6.49,2025-11-05
+ORD00080,Cereal,Breakfast,2,4.29,2025-04-22
+ORD00080,Sour Cream,Dairy,1,2.29,2025-04-22
+ORD00080,Ground Beef,Meat,1,6.49,2025-04-22
+ORD00081,Paper Towels,Cleaning,2,5.49,2025-04-26
+ORD00081,Sponges,Cleaning,1,2.49,2025-04-26
+ORD00082,Ketchup,Condiments,1,2.99,2025-07-17
+ORD00082, Burger Buns ,Bakery,1,2.79,2025-07-17
+ORD00082,Mustard,Condiments,1,2.29,2025-07-17
+ORD00082,Potato Chips,Snacks,2,3.99,2025-07-17
+ORD00082,Ground Beef,Meat,1,6.49,2025-07-17
+ORD00083,Toothpaste,Personal Care,1,3.29,2025-09-07
+ORD00083,Pretzels,Snacks,1,3.49,2025-09-07
+ORD00083,Shampoo,Personal Care,1,5.99,2025-09-07
+ORD00084,Tortillas,Mexican,1,2.99,2025-01-11
+ORD00084,baby wipes,Baby,1,6.99,2025-01-11
+ORD00084,Spaghetti,Pasta,1,1.79,2025-01-11
+ORD00084,Diapers,Baby,1,19.99,2025-01-11
+ORD00085,Salsa,Mexican,2,3.49,2025-08-15
+ORD00085,Shredded Cheese,Dairy,1,4.29,2025-08-15
+ORD00085,Sour Cream,Dairy,1,2.29,2025-08-15
+ORD00086,Bananas,Produce,1,1.79,2025-09-16
+ORD00086,Apples,Produce,2,3.99,2025-09-16
+ORD00086,Tomatoes,Produce,1,2.99,2025-09-16
+ORD00086,Lettuce,Produce,1,2.29,2025-09-16
+ORD00087,Paper Towels,Cleaning,1,5.49,2025-11-28
+ORD00087,Dish Soap,Cleaning,1,3.29,2025-11-28
+ORD00087,Sponges,Cleaning,1,2.49,2025-11-28
+ORD00087,Bacon,Breakfast,2,5.99,2025-11-28
+ORD00088,Potato Chips,Snacks,1,3.99,2025-09-22
+ORD00088,Soda,Beverages,1,4.99,2025-09-22
+ORD00088,Candy,Snacks,3,2.49,2025-09-22
+ORD00088,Cookies,Snacks,1,3.99,2025-09-22
+ORD00088,Pretzels,Snacks,2,3.49,2025-09-22
+ORD00089,Baby Wipes,Baby,1,6.99,2025-08-13
+ORD00089,Diapers,Baby,2,19.99,2025-08-13
+ORD00089,Baby Food,Baby,2,4.99,2025-08-13
+ORD00089,Baby Formula,Baby,1,22.99,2025-08-13
+ORD00090,Soda,Beverages,1,4.99,2025-08-28
+ORD00090,Potato Chips,Snacks,1,3.99,2025-08-28
+ORD00090,Candy,Snacks,1,2.49,2025-08-28
+ORD00091,Paper Towels,Cleaning,1,5.49,2025-01-01
+ORD00091,Sponges,Cleaning,1,2.49,2025-01-01
+ORD00091,Bacon,Breakfast,1,5.99,2025-01-01
+ORD00092,Baby Formula,Baby,1,22.99,2025-10-13
+ORD00092,Cookies,Snacks,2,3.99,2025-10-13
+ORD00092,Soda,Beverages,1,4.99,2025-10-13
+ORD00092,Potato Chips,Snacks,2,3.99,2025-10-13
+ORD00093,Parmesan Cheese,Pasta,1,4.99,2025-08-06
+ORD00093,Spaghetti,Pasta,1,1.79,2025-08-06
+ORD00093,Charcoal,Outdoor,1,7.99,2025-08-06
+ORD00093,Dish Soap,Cleaning,1,3.29,2025-08-06
+ORD00093,Soda,Beverages,1,4.99,2025-08-06
+ORD00093,Marinara Sauce,Pasta,1,3.49,2025-08-06
+ORD00093,Garlic Bread,Pasta,1,3.29,2025-08-06
+ORD00093,Cookies,Snacks,1,3.99,2025-08-06
+ORD00093,Ground Beef,Meat,1,6.49,2025-08-06
+ORD00094,Creamer,Breakfast,1,3.29,2025-04-06
+ORD00094,Avocado,Produce,2,1.29,2025-04-06
+ORD00094,Salsa,Mexican,2,3.49,2025-04-06
+ORD00094,Sour Cream,Dairy,1,2.29,2025-04-06
+ORD00094,Shredded Cheese,Dairy,2,4.29,2025-04-06
+ORD00094,Tortillas,Mexican,1,2.99,2025-04-06
+ORD00095,Spaghetti,Pasta,1,1.79,2025-07-01
+ORD00095,Marinara Sauce,Pasta,1,3.49,2025-07-01
+ORD00095,Tortillas,Mexican,1,2.99,2025-07-01
+ORD00095,Garlic Bread,Pasta,2,3.29,2025-07-01
+ORD00095,Ground Beef,Meat,2,6.49,2025-07-01
+ORD00096,Paper Towels,Cleaning,1,5.49,2025-05-18
+ORD00096,Burger Buns,Bakery,1,2.79,2025-05-18
+ORD00096,Charcoal,Outdoor,1,7.99,2025-05-18
+ORD00096,Ground Beef,Meat,1,6.49,2025-05-18
+ORD00097,Spaghetti,Pasta,1,1.79,2025-08-05
+ORD00097,Lime,Produce,1,0.59,2025-08-05
+ORD00097,Sour Cream,Dairy,1,2.29,2025-08-05
+ORD00097,Shredded Cheese,Dairy,1,4.29,2025-08-05
+ORD00097,Tortillas,Mexican,1,2.99,2025-08-05
+ORD00097,Ground Beef,Meat,1,6.49,2025-08-05
+ORD00098,Marinara Sauce,Pasta,1,3.49,2025-10-12
+ORD00098,Spaghetti,Pasta,2,1.79,2025-10-12
+ORD00098,Garlic Bread,Pasta,2,3.29,2025-10-12
+ORD00098,Ground Beef,Meat,1,6.49,2025-10-12
+ORD00099,Trash Bags,Cleaning,2,6.49,2025-12-11
+ORD00099,Cookies,Snacks,1,3.99,2025-12-11
+ORD00099,Pretzels,Snacks,1,3.49,2025-12-11
+ORD00100,Cereal,Breakfast,2,4.29,2025-11-08
+ORD00100,Tortillas,Mexican,1,2.99,2025-11-08
+ORD00100,Ground Beef,Meat,3,6.49,2025-11-08
+ORD00101,Eggs,Breakfast,1,3.49,2025-11-22
+ORD00102,Parmesan Cheese,Pasta,1,4.99,2025-05-06
+ORD00102,Spaghetti,Pasta,2,1.79,2025-05-06
+ORD00102,Marinara Sauce,Pasta,1,3.49,2025-05-06
+ORD00102,Garlic Bread,Pasta,1,3.29,2025-05-06
+ORD00102,Basil,Produce,1,2.19,2025-05-06
+ORD00102,Ground Beef,Meat,1,6.49,2025-05-06
+ORD00103,Paper Towels,Cleaning,1,5.49,2025-03-08
+ORD00103,Bananas,Produce,3,1.79,2025-03-08
+ORD00103,Tomatoes,Produce,1,2.99,2025-03-08
+ORD00103,Sponges,Cleaning,1,2.49,2025-03-08
+ORD00103,Trash Bags,Cleaning,2,6.49,2025-03-08
+ORD00103,Lettuce,Produce,1,2.29,2025-03-08
+ORD00104,Marinara Sauce,Pasta,1,3.49,2025-09-05
+ORD00104,Bananas,Produce,2,1.79,2025-09-05
+ORD00104,Spaghetti,Pasta,1,1.79,2025-09-05
+ORD00104,Ground Beef,Meat,2,6.49,2025-09-05
+ORD00105,Eggs,Breakfast,1,3.49,2025-07-31
+ORD00105,Milk,Breakfast,2,3.19,2025-07-31
+ORD00105,Tomatoes,Produce,1,2.99,2025-07-31
+ORD00105,coffee beans,Beverages,2,8.99,2025-07-31
+ORD00105,Bacon,Breakfast,1,5.99,2025-07-31
+ORD00106,Tortillas,Mexican,1,2.99,2025-11-04
+ORD00106,Cookies,Snacks,1,3.99,2025-11-04
+ORD00106,Potato Chips,Snacks,2,3.99,2025-11-04
+ORD00107,Parmesan Cheese,Pasta,2,4.99,2025-06-04
+ORD00107,Baby Wipes,Baby,3,6.99,2025-06-04
+ORD00107,Diapers,Baby,1,19.99,2025-06-04
+ORD00108,parmesan cheese,Pasta,1,4.99,2025-09-04
+ORD00109,Milk,Breakfast,1,3.19,2025-03-08
+ORD00109,Coffee Filters,Breakfast,1,2.49,2025-03-08
+ORD00109,Eggs,Breakfast,1,3.49,2025-03-08
+ORD00109,Bacon,Breakfast,1,5.99,2025-03-08
+ORD00110,Milk,Breakfast,1,3.19,2025-07-17
+ORD00110,Toilet Paper,Personal Care,2,8.99,2025-07-17
+ORD00110,Ground Beef,Meat,3,6.49,2025-07-17
+ORD00111,Paper Towels,Cleaning,2,5.49,2025-01-24
+ORD00111,Dish Soap,Cleaning,1,3.29,2025-01-24
+ORD00111,Laundry Detergent,Cleaning,2,8.99,2025-01-24
+ORD00112,Potato Chips,Snacks,1,3.99,2025-12-25
+ORD00112,Shampoo,Personal Care,1,5.99,2025-12-25
+ORD00113,Potato Chips,Snacks,1,3.99,2025-07-07
+ORD00113,Dish Soap,Cleaning,1,3.29,2025-07-07
+ORD00113,Soda,Beverages,2,4.99,2025-07-07
+ORD00113,Cookies,Snacks,3,3.99,2025-07-07
+ORD00113,Pretzels,Snacks,1,3.49,2025-07-07
+ORD00114,Soda,Beverages,2,4.99,2025-07-27
+ORD00114,Toothpaste,Personal Care,1,3.29,2025-07-27
+ORD00114,Toilet Paper,Personal Care,1,8.99,2025-07-27
+ORD00115,Bananas,Produce,1,1.79,2025-04-19
+ORD00115,Tomatoes,Produce,1,2.99,2025-04-19
+ORD00116,Coffee Beans,Beverages,1,8.99,2025-10-04
+ORD00116,Bacon,Breakfast,1,5.99,2025-10-04
+ORD00117,Toilet Paper,Personal Care,2,8.99,2025-06-13
+ORD00117,Shampoo,Personal Care,1,5.99,2025-06-13
+ORD00118,Paper Towels,Cleaning,2,5.49,2025-04-09
+ORD00118,Creamer,Breakfast,1,3.29,2025-04-09
+ORD00118,Dish Soap,Cleaning,1,3.29,2025-04-09
+ORD00118,Eggs,Breakfast,1,3.49,2025-04-09
+ORD00118,Coffee Filters,Breakfast,1,2.49,2025-04-09
+ORD00119,Cookies,Snacks,1,3.99,2025-12-14
+ORD00119,Soda,Beverages,1,4.99,2025-12-14
+ORD00119,Candy,Snacks,2,2.49,2025-12-14
+ORD00120,Diapers,Baby,1,19.99,2025-12-31
+ORD00120,Cookies,Snacks,2,3.99,2025-12-31
+ORD00120,Pretzels,Snacks,1,3.49,2025-12-31
+ORD00120,Candy,Snacks,1,2.49,2025-12-31
+ORD00121,Avocado,Produce,1,1.29,2025-07-04
+ORD00121,Lime,Produce,1,0.59,2025-07-04
+ORD00121,Bananas,Produce,1,1.79,2025-07-04
+ORD00121,Apples,Produce,1,3.99,2025-07-04
+ORD00121,Coffee Beans,Beverages,1,8.99,2025-07-04
+ORD00121,Lettuce,Produce,1,2.29,2025-07-04
+ORD00122,Creamer,Breakfast,1,3.29,2025-08-10
+ORD00122,Orange Juice,Beverages,1,4.49,2025-08-10
+ORD00122,Coffee Filters,Breakfast,1,2.49,2025-08-10
+ORD00122,Coffee Beans,Beverages,2,8.99,2025-08-10
+ORD00122,Basil,Produce,1,2.19,2025-08-10
+ORD00122,Bread,Breakfast,1,2.99,2025-08-10
+ORD00123,Bananas,Produce,1,1.79,2025-12-03
+ORD00123,Cereal,Breakfast,1,4.29,2025-12-03
+ORD00123,Eggs,Breakfast,2,3.49,2025-12-03
+ORD00124,Marinara Sauce,Pasta,1,3.49,2025-01-29
+ORD00124,Spaghetti,Pasta,2,1.79,2025-01-29
+ORD00124,Lettuce,Produce,1,2.29,2025-01-29
+ORD00124,ground beef,Meat,1,6.49,2025-01-29
+ORD00125,Pretzels,Snacks,1,3.49,2025-02-07
+ORD00126,Milk,Breakfast,1,3.19,2025-02-09
+ORD00126,Toilet Paper,Personal Care,1,8.99,2025-02-09
+ORD00127,Coffee Filters,Breakfast,1,2.49,2025-12-24
+ORD00127,Eggs,Breakfast,1,3.49,2025-12-24
+ORD00127,Bacon,Breakfast,1,5.99,2025-12-24
+ORD00128,Burger Buns,Bakery,1,2.79,2025-04-02
+ORD00128,Ketchup,Condiments,1,2.99,2025-04-02
+ORD00129,Charcoal,Outdoor,1,7.99,2025-03-10
+ORD00129,Dish Soap,Cleaning,1,3.29,2025-03-10
+ORD00129,Burger Buns,Bakery,1,2.79,2025-03-10
+ORD00129,Mustard,Condiments,2,2.29,2025-03-10
+ORD00129,Ground Beef,Meat,1,6.49,2025-03-10
+ORD00130,Dish Soap,Cleaning,1,3.29,2025-07-19
+ORD00130,Burger Buns,Bakery,1,2.79,2025-07-19
+ORD00130,Potato Chips,Snacks,2,3.99,2025-07-19
+ORD00131,Burger Buns,Bakery,1,2.79,2025-09-16
+ORD00131,Pretzels,Snacks,3,3.49,2025-09-16
+ORD00131,Potato Chips,Snacks,1,3.99,2025-09-16
+ORD00132,Avocado,Produce,1,1.29,2025-06-05
+ORD00132,Toilet Paper,Personal Care,3,8.99,2025-06-05
+ORD00132,Sour Cream,Dairy,1,2.29,2025-06-05
+ORD00132,Bananas,Produce,2,1.79,2025-06-05
+ORD00132,Shredded Cheese,Dairy,1,4.29,2025-06-05
+ORD00132,Soap,Personal Care,1,2.99,2025-06-05
+ORD00133,Coffee Beans,Beverages,2,8.99,2025-04-06
+ORD00133,Tortillas,Mexican,2,2.99,2025-04-06
+ORD00133,Eggs,Breakfast,2,3.49,2025-04-06
+ORD00134,Avocado,Produce,1,1.29,2025-06-08
+ORD00134,Lime,Produce,1,0.59,2025-06-08
+ORD00134,Sour Cream,Dairy,1,2.29,2025-06-08
+ORD00134,Tortillas,Mexican,1,2.99,2025-06-08
+ORD00134,Ground Beef,Meat,1,6.49,2025-06-08
+ORD00135,Paper Towels,Cleaning,2,5.49,2025-11-22
+ORD00135,Dish Soap,Cleaning,1,3.29,2025-11-22
+ORD00135,Laundry Detergent,Cleaning,1,8.99,2025-11-22
+ORD00135,Sponges,Cleaning,1,2.49,2025-11-22
+ORD00135,Trash Bags,Cleaning,1,6.49,2025-11-22
+ORD00136,Spaghetti,Pasta,1,1.79,2025-03-17
+ORD00136,Potato Chips,Snacks,1,3.99,2025-03-17
+ORD00136,Ground Beef,Meat,1,6.49,2025-03-17
+ORD00137,Bottled Water,Beverages,1,4.49,2025-12-04
+ORD00138,Salsa,Mexican,1,3.49,2025-02-06
+ORD00138,Ground Beef,Meat,3,6.49,2025-02-06
+ORD00139,Avocado,Produce,1,1.29,2025-09-10
+ORD00139,Toilet Paper,Personal Care,1,8.99,2025-09-10
+ORD00139, Bananas ,Produce,2,1.79,2025-09-10
+ORD00139,Mustard,Condiments,1,2.29,2025-09-10
+ORD00139,Tomatoes,Produce,1,2.99,2025-09-10
+ORD00140,Soda,Beverages,3,4.99,2025-02-04
+ORD00141,Toothpaste,Personal Care,1,3.29,2025-06-18
+ORD00141,Toilet Paper,Personal Care,1,8.99,2025-06-18
+ORD00141,Baby Wipes,Baby,1,6.99,2025-06-18
+ORD00141,apples,Produce,1,3.99,2025-06-18
+ORD00141,Soap,Personal Care,2,2.99,2025-06-18
+ORD00142,Dish Soap,Cleaning,1,3.29,2025-02-12
+ORD00142,Soda,Beverages,3,4.99,2025-02-12
+ORD00142,Candy,Snacks,1,2.49,2025-02-12
+ORD00142,Cookies,Snacks,1,3.99,2025-02-12
+ORD00142,Pretzels,Snacks,3,3.49,2025-02-12
+ORD00143,Bananas,Produce,3,1.79,2025-04-29
+ORD00143,Avocado,Produce,1,1.29,2025-04-29
+ORD00143,APPLES,Produce,2,3.99,2025-04-29
+ORD00143,Tomatoes,Produce,2,2.99,2025-04-29
+ORD00144,Eggs,Breakfast,1,3.49,2025-09-06
+ORD00144,LIME,Produce,2,0.59,2025-09-06
+ORD00144,Burger Buns,Bakery,1,2.79,2025-09-06
+ORD00144,Mustard,Condiments,1,2.29,2025-09-06
+ORD00144,Coffee Beans,Beverages,1,8.99,2025-09-06
+ORD00145,Parmesan Cheese,Pasta,1,4.99,2025-11-28
+ORD00145,Spaghetti,Pasta,1,1.79,2025-11-28
+ORD00146,Paper Towels,Cleaning,1,5.49,2025-12-04
+ORD00146,Dish Soap,Cleaning,2,3.29,2025-12-04
+ORD00146,Lime,Produce,1,0.59,2025-12-04
+ORD00146,Laundry Detergent,Cleaning,2,8.99,2025-12-04
+ORD00146,Trash Bags,Cleaning,1,6.49,2025-12-04
+ORD00147,Soap,Personal Care,1,2.99,2025-04-18
+ORD00147,Toothpaste,Personal Care,2,3.29,2025-04-18
+ORD00148,Dish Soap,Cleaning,1,3.29,2025-04-30
+ORD00148,Shampoo,Personal Care,1,5.99,2025-04-30
+ORD00148,Laundry Detergent,Cleaning,1,8.99,2025-04-30
+ORD00148,SPONGES,Cleaning,1,2.49,2025-04-30
+ORD00148,Ground Beef,Meat,1,6.49,2025-04-30
+ORD00149,Bottled Water,Beverages,1,4.49,2025-03-02
+ORD00150,Eggs,Breakfast,2,3.49,2025-11-07
+ORD00150,Ground Beef,Meat,1,6.49,2025-11-07
+ORD00150,Orange Juice,Beverages,1,4.49,2025-11-07
+ORD00151,Avocado,Produce,1,1.29,2025-07-15
+ORD00151,Bananas,Produce,1,1.79,2025-07-15
+ORD00151,Tomatoes,Produce,1,2.99,2025-07-15
+ORD00151,Shampoo,Personal Care,1,5.99,2025-07-15
+ORD00151,Garlic Bread,Pasta,1,3.29,2025-07-15
+ORD00152,Creamer,Breakfast,1,3.29,2025-12-27
+ORD00152,Eggs,Breakfast,1,3.49,2025-12-27
+ORD00152,Milk,Breakfast,2,3.19,2025-12-27
+ORD00152,Butter,Breakfast,2,3.79,2025-12-27
+ORD00152,Coffee Beans,Beverages,1,8.99,2025-12-27
+ORD00152,Bacon,Breakfast,1,5.99,2025-12-27
+ORD00153,Ketchup,Condiments,2,2.99,2025-08-19
+ORD00153,Toilet Paper,Personal Care,2,8.99,2025-08-19
+ORD00153,Burger Buns,Bakery,1,2.79,2025-08-19
+ORD00153,Laundry Detergent,Cleaning,1,8.99,2025-08-19
+ORD00153,Ground Beef,Meat,1,6.49,2025-08-19
+ORD00154,CHARCOAL,Outdoor,1,7.99,2025-11-11
+ORD00154,Eggs,Breakfast,1,3.49,2025-11-11
+ORD00154,Soda,Beverages,1,4.99,2025-11-11
+ORD00154, Milk ,Breakfast,1,3.19,2025-11-11
+ORD00154,Coffee Filters,Breakfast,2,2.49,2025-11-11
+ORD00154,Coffee Beans,Beverages,1,8.99,2025-11-11
+ORD00154,Garlic Bread,Pasta,2,3.29,2025-11-11
+ORD00155,Soda,Beverages,1,4.99,2025-05-07
+ORD00155,Bananas,Produce,1,1.79,2025-05-07
+ORD00155,Burger Buns,Bakery,2,2.79,2025-05-07
+ORD00155,Potato Chips,Snacks,1,3.99,2025-05-07
+ORD00155,Ground Beef,Meat,1,6.49,2025-05-07
+ORD00156,Paper Towels,Cleaning,1,5.49,2025-06-18
+ORD00156,Laundry Detergent,Cleaning,1,8.99,2025-06-18
+ORD00157,Charcoal,Outdoor,2,7.99,2025-08-30
+ORD00157,MUSTARD,Condiments,2,2.29,2025-08-30
+ORD00157,Potato Chips,Snacks,1,3.99,2025-08-30
+ORD00157,Ground Beef,Meat,1,6.49,2025-08-30
+ORD00158,Tortillas,Mexican,1,2.99,2025-09-05
+ORD00158,Salsa,Mexican,2,3.49,2025-09-05
+ORD00158,Sour Cream,Dairy,1,2.29,2025-09-05
+ORD00158,Ground Beef,Meat,1,6.49,2025-09-05
+ORD00159,Parmesan Cheese,Pasta,1,4.99,2025-05-02
+ORD00159,Spaghetti,Pasta,3,1.79,2025-05-02
+ORD00159,Garlic Bread,Pasta,1,3.29,2025-05-02
+ORD00159,Basil,Produce,1,2.19,2025-05-02
+ORD00160,Parmesan Cheese,Pasta,1,4.99,2025-10-26
+ORD00160,Diapers,Baby,2,19.99,2025-10-26
+ORD00160,Toothpaste,Personal Care,2,3.29,2025-10-26
+ORD00160,Toilet Paper,Personal Care,2,8.99,2025-10-26
+ORD00160,Soap,Personal Care,2,2.99,2025-10-26
+ORD00161,Parmesan Cheese,Pasta,2,4.99,2025-01-30
+ORD00161, Spaghetti ,Pasta,1,1.79,2025-01-30
+ORD00161,Bacon,Breakfast,1,5.99,2025-01-30
+ORD00162,Creamer,Breakfast,1,3.29,2025-11-13
+ORD00162,Spaghetti,Pasta,2,1.79,2025-11-13
+ORD00162,Eggs,Breakfast,3,3.49,2025-11-13
+ORD00162,Garlic Bread,Pasta,1,3.29,2025-11-13
+ORD00162,Bacon,Breakfast,1,5.99,2025-11-13
+ORD00163,Diapers,Baby,1,19.99,2025-10-25
+ORD00163,Soda,Beverages,1,4.99,2025-10-25
+ORD00163,Baby Wipes,Baby,1,6.99,2025-10-25
+ORD00163,Baby Formula,Baby,1,22.99,2025-10-25
+ORD00163,Baby Food,Baby,1,4.99,2025-10-25
+ORD00163,Coffee Beans,Beverages,1,8.99,2025-10-25
+ORD00164,Parmesan Cheese,Pasta,1,4.99,2025-08-20
+ORD00164,Spaghetti,Pasta,2,1.79,2025-08-20
+ORD00164,Marinara Sauce,Pasta,1,3.49,2025-08-20
+ORD00164,Burger Buns,Bakery,1,2.79,2025-08-20
+ORD00164,Candy,Snacks,1,2.49,2025-08-20
+ORD00165,Trash Bags,Cleaning,2,6.49,2025-04-02
+ORD00166,Laundry Detergent,Cleaning,2,8.99,2025-03-17
+ORD00166,Charcoal,Outdoor,1,7.99,2025-03-17
+ORD00167,Parmesan Cheese,Pasta,1,4.99,2025-11-10
+ORD00167,Spaghetti,Pasta,1,1.79,2025-11-10
+ORD00167,Avocado,Produce,1,1.29,2025-11-10
+ORD00167,Garlic Bread,Pasta,1,3.29,2025-11-10
+ORD00167,Basil,Produce,1,2.19,2025-11-10
+ORD00168,Tomatoes,Produce,2,2.99,2025-03-23
+ORD00168,Lettuce,Produce,1,2.29,2025-03-23
+ORD00169,Soda,Beverages,1,4.99,2025-01-20
+ORD00169,Sour Cream,Dairy,2,2.29,2025-01-20
+ORD00170,Avocado,Produce,1,1.29,2025-01-27
+ORD00170,Marinara Sauce,Pasta,1,3.49,2025-01-27
+ORD00170,Apples,Produce,1,3.99,2025-01-27
+ORD00170,Sponges,Cleaning,1,2.49,2025-01-27
+ORD00170,Trash Bags,Cleaning,2,6.49,2025-01-27
+ORD00171,Dish Soap,Cleaning,1,3.29,2025-01-31
+ORD00171,Spaghetti,Pasta,2,1.79,2025-01-31
+ORD00171,Salsa,Mexican,1,3.49,2025-01-31
+ORD00171,Sour Cream,Dairy,1,2.29,2025-01-31
+ORD00171,Lime,Produce,1,0.59,2025-01-31
+ORD00171,Butter,Breakfast,1,3.79,2025-01-31
+ORD00171,Shredded Cheese,Dairy,2,4.29,2025-01-31
+ORD00171,Sponges,Cleaning,1,2.49,2025-01-31
+ORD00172,Salsa,Mexican,2,3.49,2025-11-24
+ORD00172,Lime,Produce,1,0.59,2025-11-24
+ORD00172,Tomatoes,Produce,1,2.99,2025-11-24
+ORD00172,Shredded Cheese,Dairy,2,4.29,2025-11-24
+ORD00172,Baby Food,Baby,1,4.99,2025-11-24
+ORD00173,Bottled Water,Beverages,2,4.49,2025-02-09
+ORD00173,Dish Soap,Cleaning,1,3.29,2025-02-09
+ORD00174,Eggs,Breakfast,1,3.49,2025-05-06
+ORD00174,Avocado,Produce,1,1.29,2025-05-06
+ORD00174,Toothpaste,Personal Care,1,3.29,2025-05-06
+ORD00174,Shampoo,Personal Care,1,5.99,2025-05-06
+ORD00175,Coffee Beans,Beverages,2,8.99,2025-10-06
+ORD00175,Avocado,Produce,1,1.29,2025-10-06
+ORD00175,Garlic Bread,Pasta,1,3.29,2025-10-06
+ORD00175,Ground Beef,Meat,2,6.49,2025-10-06
+ORD00176,Avocado,Produce,2,1.29,2025-03-29
+ORD00176,Soda,Beverages,2,4.99,2025-03-29
+ORD00176,Bottled Water,Beverages,1,4.49,2025-03-29
+ORD00176,TORTILLAS,Mexican,1,2.99,2025-03-29
+ORD00176,Orange Juice,Beverages,1,4.49,2025-03-29
+ORD00177,Ketchup,Condiments,2,2.99,2025-04-30
+ORD00177,Soda,Beverages,2,4.99,2025-04-30
+ORD00178,Trash Bags,Cleaning,1,6.49,2025-04-05
+ORD00178,Bacon,Breakfast,2,5.99,2025-04-05
+ORD00179,Coffee Beans,Beverages,3,8.99,2025-06-22
+ORD00180,Burger Buns,Bakery,1,2.79,2025-04-20
+ORD00180,Ketchup,Condiments,2,2.99,2025-04-20
+ORD00180,Soda,Beverages,1,4.99,2025-04-20
+ORD00180,Lime,Produce,2,0.59,2025-04-20
+ORD00181,SPONGES,Cleaning,1,2.49,2025-11-22
+ORD00182,Creamer,Breakfast,1,3.29,2025-05-27
+ORD00182,Butter,Breakfast,2,3.79,2025-05-27
+ORD00182,Eggs,Breakfast,1,3.49,2025-05-27
+ORD00183, Apples ,Produce,1,3.99,2025-03-07
+ORD00183,Tomatoes,Produce,1,2.99,2025-03-07
+ORD00183,Lettuce,Produce,1,2.29,2025-03-07
+ORD00184,Marinara Sauce,Pasta,1,3.49,2025-08-18
+ORD00184,spaghetti,Pasta,1,1.79,2025-08-18
+ORD00185,Parmesan Cheese,Pasta,1,4.99,2025-12-21
+ORD00185,Spaghetti,Pasta,1,1.79,2025-12-21
+ORD00185,Avocado,Produce,1,1.29,2025-12-21
+ORD00185,Shampoo,Personal Care,1,5.99,2025-12-21
+ORD00185,Basil,Produce,2,2.19,2025-12-21
+ORD00185,Ground Beef,Meat,3,6.49,2025-12-21
+ORD00186,Diapers,Baby,1,19.99,2025-05-14
+ORD00186,Soap,Personal Care,2,2.99,2025-05-14
+ORD00186,Salsa,Mexican,1,3.49,2025-05-14
+ORD00186,Toilet Paper,Personal Care,1,8.99,2025-05-14
+ORD00187,Potato Chips,Snacks,2,3.99,2025-12-14
+ORD00187,Soda,Beverages,1,4.99,2025-12-14
+ORD00187,Milk,Breakfast,1,3.19,2025-12-14
+ORD00187,Butter,Breakfast,1,3.79,2025-12-14
+ORD00187,Candy,Snacks,1,2.49,2025-12-14
+ORD00187,Pretzels,Snacks,1,3.49,2025-12-14
+ORD00188,Soap,Personal Care,1,2.99,2025-07-24
+ORD00188,Toothpaste,Personal Care,1,3.29,2025-07-24
+ORD00188,Shampoo,Personal Care,1,5.99,2025-07-24
+ORD00189,Dish Soap,Cleaning,3,3.29,2025-12-26
+ORD00189,Laundry Detergent,Cleaning,1,8.99,2025-12-26
+ORD00189,Garlic Bread,Pasta,1,3.29,2025-12-26
+ORD00189,Sponges,Cleaning,1,2.49,2025-12-26
+ORD00189,Trash Bags,Cleaning,1,6.49,2025-12-26
+ORD00190, Spaghetti ,Pasta,1,1.79,2025-02-24
+ORD00190,Soda,Beverages,2,4.99,2025-02-24
+ORD00190,Milk,Breakfast,1,3.19,2025-02-24
+ORD00190,Candy,Snacks,1,2.49,2025-02-24
+ORD00190,Cookies,Snacks,1,3.99,2025-02-24
+ORD00190,Pretzels,Snacks,1,3.49,2025-02-24
+ORD00190,Ground Beef,Meat,1,6.49,2025-02-24
+ORD00191,Paper Towels,Cleaning,1,5.49,2025-08-08
+ORD00191,Laundry Detergent,Cleaning,1,8.99,2025-08-08
+ORD00191,trash bags,Cleaning,1,6.49,2025-08-08
+ORD00191,Marinara Sauce,Pasta,1,3.49,2025-08-08
+ORD00192,Soda,Beverages,1,4.99,2025-03-03
+ORD00192,Potato Chips,Snacks,1,3.99,2025-03-03
+ORD00192,Shampoo,Personal Care,2,5.99,2025-03-03
+ORD00193,avocado,Produce,1,1.29,2025-06-09
+ORD00193,Apples,Produce,1,3.99,2025-06-09
+ORD00194,Milk,Breakfast,2,3.19,2025-05-23
+ORD00194,Cookies,Snacks,1,3.99,2025-05-23
+ORD00194,Potato Chips,Snacks,1,3.99,2025-05-23
+ORD00194,Candy,Snacks,2,2.49,2025-05-23
+ORD00195,Spaghetti,Pasta,2,1.79,2025-12-23
+ORD00195,Toothpaste,Personal Care,1,3.29,2025-12-23
+ORD00195,Toilet Paper,Personal Care,1,8.99,2025-12-23
+ORD00195,Marinara Sauce,Pasta,1,3.49,2025-12-23
+ORD00195,Garlic Bread,Pasta,1,3.29,2025-12-23
+ORD00195,Cookies,Snacks,1,3.99,2025-12-23
+ORD00195,Basil,Produce,1,2.19,2025-12-23
+ORD00196,Burger Buns,Bakery,1,2.79,2025-07-19
+ORD00196,Soda,Beverages,2,4.99,2025-07-19
+ORD00196,Ground Beef,Meat,1,6.49,2025-07-19
+ORD00197,Soda,Beverages,2,4.99,2025-10-29
+ORD00197,toilet paper,Personal Care,2,8.99,2025-10-29
+ORD00197,Bananas,Produce,1,1.79,2025-10-29
+ORD00197,Tomatoes,Produce,1,2.99,2025-10-29
+ORD00197,Lettuce,Produce,2,2.29,2025-10-29
+ORD00198,Soap,Personal Care,1,2.99,2025-06-08
+ORD00198,Shampoo,Personal Care,3,5.99,2025-06-08
+ORD00199,Dish Soap,Cleaning,1,3.29,2025-08-08
+ORD00200,Burger Buns,Bakery,1,2.79,2025-04-28
+ORD00200,Ketchup,Condiments,1,2.99,2025-04-28
+ORD00200,Ground Beef,Meat,1,6.49,2025-04-28
+ORD00201,Coffee Beans,Beverages,1,8.99,2025-03-04
+ORD00201,Diapers,Baby,2,19.99,2025-03-04
+ORD00201,Baby Wipes,Baby,2,6.99,2025-03-04
+ORD00202,creamer,Breakfast,2,3.29,2025-10-13
+ORD00202,Eggs,Breakfast,1,3.49,2025-10-13
+ORD00202,Milk,Breakfast,1,3.19,2025-10-13
+ORD00202,Coffee Beans,Beverages,2,8.99,2025-10-13
+ORD00202,Soap,Personal Care,2,2.99,2025-10-13
+ORD00202,Orange Juice,Beverages,1,4.49,2025-10-13
+ORD00203,Burger Buns,Bakery,1,2.79,2025-03-13
+ORD00204,Laundry Detergent,Cleaning,1,8.99,2025-03-06
+ORD00204,Apples,Produce,2,3.99,2025-03-06
+ORD00204,Butter,Breakfast,1,3.79,2025-03-06
+ORD00205,Parmesan Cheese,Pasta,1,4.99,2025-02-18
+ORD00205,Spaghetti,Pasta,1,1.79,2025-02-18
+ORD00205,Marinara Sauce,Pasta,1,3.49,2025-02-18
+ORD00205,Bananas,Produce,1,1.79,2025-02-18
+ORD00205,Apples,Produce,1,3.99,2025-02-18
+ORD00205,Basil,Produce,1,2.19,2025-02-18
+ORD00206,Butter,Breakfast,2,3.79,2025-06-12
+ORD00206,Cookies,Snacks,1,3.99,2025-06-12
+ORD00206,Eggs,Breakfast,1,3.49,2025-06-12
+ORD00206,Bacon,Breakfast,1,5.99,2025-06-12
+ORD00207,Salsa,Mexican,1,3.49,2025-09-07
+ORD00207,Lime,Produce,1,0.59,2025-09-07
+ORD00207,Sour Cream,Dairy,1,2.29,2025-09-07
+ORD00207,Shredded Cheese,Dairy,1,4.29,2025-09-07
+ORD00207,Tortillas,Mexican,1,2.99,2025-09-07
+ORD00207,Ground Beef,Meat,1,6.49,2025-09-07
+ORD00208,Sponges,Cleaning,1,2.49,2025-08-08
+ORD00208,Toothpaste,Personal Care,1,3.29,2025-08-08
+ORD00209,Avocado,Produce,1,1.29,2025-07-29
+ORD00209,Toilet Paper,Personal Care,2,8.99,2025-07-29
+ORD00209,Bottled Water,Beverages,1,4.49,2025-07-29
+ORD00209,Shredded Cheese,Dairy,2,4.29,2025-07-29
+ORD00209,Shampoo,Personal Care,1,5.99,2025-07-29
+ORD00209,Apples,Produce,2,3.99,2025-07-29
+ORD00209,Soap,Personal Care,1,2.99,2025-07-29
+ORD00210,Toilet Paper,Personal Care,1,8.99,2025-12-01
+ORD00210,Bananas,Produce,2,1.79,2025-12-01
+ORD00210,Shampoo,Personal Care,1,5.99,2025-12-01
+ORD00210,Soap,Personal Care,1,2.99,2025-12-01
+ORD00210,Lettuce,Produce,1,2.29,2025-12-01
+ORD00211,Bottled Water,Beverages,1,4.49,2025-08-25
+ORD00211,Coffee Beans,Beverages,2,8.99,2025-08-25
+ORD00211,Orange Juice,Beverages,2,4.49,2025-08-25
+ORD00212,Avocado,Produce,1,1.29,2025-08-20
+ORD00212,Baby Food,Baby,1,4.99,2025-08-20
+ORD00213,Marinara Sauce,Pasta,2,3.49,2025-10-22
+ORD00213,Spaghetti,Pasta,2,1.79,2025-10-22
+ORD00213,Parmesan Cheese,Pasta,1,4.99,2025-10-22
+ORD00213,Ground Beef,Meat,3,6.49,2025-10-22
+ORD00214,Bananas,Produce,1,1.79,2025-11-18
+ORD00214,Baby Formula,Baby,1,22.99,2025-11-18
+ORD00214,Tomatoes,Produce,3,2.99,2025-11-18
+ORD00214,Lettuce,Produce,1,2.29,2025-11-18
+ORD00215,Tortillas,Mexican,2,2.99,2025-10-02
+ORD00215,toilet paper,Personal Care,1,8.99,2025-10-02
+ORD00215,Shredded Cheese,Dairy,1,4.29,2025-10-02
+ORD00216,Creamer,Breakfast,1,3.29,2025-02-23
+ORD00216,Orange Juice,Beverages,2,4.49,2025-02-23
+ORD00216,Milk,Breakfast,3,3.19,2025-02-23
+ORD00216,Coffee Beans,Beverages,1,8.99,2025-02-23
+ORD00216,Bacon,Breakfast,1,5.99,2025-02-23
+ORD00216,Bread,Breakfast,1,2.99,2025-02-23
+ORD00217,apples,Produce,1,3.99,2025-12-21
+ORD00218,Paper Towels,Cleaning,1,5.49,2025-07-23
+ORD00218,Dish Soap,Cleaning,1,3.29,2025-07-23
+ORD00218,Laundry Detergent,Cleaning,1,8.99,2025-07-23
+ORD00219,Bananas,Produce,1,1.79,2025-11-06
+ORD00219,Apples,Produce,2,3.99,2025-11-06
+ORD00219,Baby Formula,Baby,1,22.99,2025-11-06
+ORD00219,Orange Juice,Beverages,1,4.49,2025-11-06
+ORD00220,Lettuce,Produce,2,2.29,2025-08-02
+ORD00221,Coffee Beans,Beverages,3,8.99,2025-12-17
+ORD00221,Soda,Beverages,2,4.99,2025-12-17
+ORD00222,Baby Food,Baby,1,4.99,2025-07-06
+ORD00222,Soda,Beverages,1,4.99,2025-07-06
+ORD00222,orange juice,Beverages,3,4.49,2025-07-06
+ORD00223,Orange Juice,Beverages,1,4.49,2025-12-12
+ORD00223,Eggs,Breakfast,2,3.49,2025-12-12
+ORD00223,Soap,Personal Care,1,2.99,2025-12-12
+ORD00223,Bacon,Breakfast,2,5.99,2025-12-12
+ORD00223,Bread,Breakfast,1,2.99,2025-12-12
+ORD00224,Baby Wipes,Baby,1,6.99,2025-01-15
+ORD00224,Diapers,Baby,1,19.99,2025-01-15
+ORD00224,Ketchup,Condiments,1,2.99,2025-01-15
+ORD00225,Eggs,Breakfast,1,3.49,2025-08-17
+ORD00225,Bananas,Produce,2,1.79,2025-08-17
+ORD00225,Cereal,Breakfast,1,4.29,2025-08-17
+ORD00225,Milk,Breakfast,1,3.19,2025-08-17
+ORD00225,Coffee Filters,Breakfast,2,2.49,2025-08-17
+ORD00225,coffee beans,Beverages,1,8.99,2025-08-17
+ORD00225,Bacon,Breakfast,1,5.99,2025-08-17
+ORD00225,Bread,Breakfast,2,2.99,2025-08-17
+ORD00226,Salsa,Mexican,2,3.49,2025-06-01
+ORD00227,Bottled Water,Beverages,1,4.49,2025-12-20
+ORD00227,Laundry Detergent,Cleaning,1,8.99,2025-12-20
+ORD00227,Apples,Produce,2,3.99,2025-12-20
+ORD00227,Lettuce,Produce,1,2.29,2025-12-20
+ORD00228,Dish Soap,Cleaning,1,3.29,2025-10-22
+ORD00228,Laundry Detergent,Cleaning,1,8.99,2025-10-22
+ORD00229,Pretzels,Snacks,1,3.49,2025-11-26
+ORD00229,Soda,Beverages,1,4.99,2025-11-26
+ORD00229,Potato Chips,Snacks,1,3.99,2025-11-26
+ORD00230,Coffee Filters,Breakfast,1,2.49,2025-08-27
+ORD00230,Eggs,Breakfast,1,3.49,2025-08-27
+ORD00230,Orange Juice,Beverages,1,4.49,2025-08-27
+ORD00231,Pretzels,Snacks,2,3.49,2025-05-22
+ORD00231,Soda,Beverages,2,4.99,2025-05-22
+ORD00231,Potato Chips,Snacks,1,3.99,2025-05-22
+ORD00232,Parmesan Cheese,Pasta,1,4.99,2025-08-29
+ORD00232,Garlic Bread,Pasta,1,3.29,2025-08-29
+ORD00233,Bottled Water,Beverages,2,4.49,2025-09-27
+ORD00233,Coffee Beans,Beverages,1,8.99,2025-09-27
+ORD00233,Charcoal,Outdoor,1,7.99,2025-09-27
+ORD00234,Marinara Sauce,Pasta,1,3.49,2025-05-22
+ORD00234,Eggs,Breakfast,1,3.49,2025-05-22
+ORD00234,Ground Beef,Meat,1,6.49,2025-05-22
+ORD00235,Avocado,Produce,1,1.29,2025-02-04
+ORD00235,Tortillas,Mexican,1,2.99,2025-02-04
+ORD00235,Salsa,Mexican,1,3.49,2025-02-04
+ORD00235,Shredded Cheese,Dairy,2,4.29,2025-02-04
+ORD00236,Salsa,Mexican,1,3.49,2025-11-19
+ORD00236,Lime,Produce,1,0.59,2025-11-19
+ORD00236,Shredded Cheese,Dairy,1,4.29,2025-11-19
+ORD00236,Tortillas,Mexican,1,2.99,2025-11-19
+ORD00236,Ground Beef,Meat,1,6.49,2025-11-19
+ORD00237,Paper Towels,Cleaning,2,5.49,2025-11-26
+ORD00237,Bananas,Produce,1,1.79,2025-11-26
+ORD00237,Dish Soap,Cleaning,1,3.29,2025-11-26
+ORD00237,Sponges,Cleaning,1,2.49,2025-11-26
+ORD00238,Paper Towels,Cleaning,1,5.49,2025-05-05
+ORD00238,Dish Soap,Cleaning,2,3.29,2025-05-05
+ORD00238,sponges,Cleaning,3,2.49,2025-05-05
+ORD00239,Burger Buns,Bakery,1,2.79,2025-09-01
+ORD00239,Charcoal,Outdoor,3,7.99,2025-09-01
+ORD00239,Ground Beef,Meat,1,6.49,2025-09-01
+ORD00240,Soda,Beverages,1,4.99,2025-03-25
+ORD00241,Baby Wipes,Baby,1,6.99,2025-12-20
+ORD00241,Diapers,Baby,1,19.99,2025-12-20
+ORD00242,Orange Juice,Beverages,1,4.49,2025-06-05
+ORD00242,Milk,Breakfast,1,3.19,2025-06-05
+ORD00242,Baby Food,Baby,1,4.99,2025-06-05
+ORD00242,Coffee Beans,Beverages,1,8.99,2025-06-05
+ORD00242,Bacon,Breakfast,2,5.99,2025-06-05
+ORD00242,Bread,Breakfast,1,2.99,2025-06-05
+ORD00243,Toilet Paper,Personal Care,1,8.99,2025-01-08
+ORD00244,Bananas,Produce,2,1.79,2025-11-23
+ORD00244,Tomatoes,Produce,1,2.99,2025-11-23
+ORD00245,Soap,Personal Care,1,2.99,2025-06-03
+ORD00245,Toothpaste,Personal Care,2,3.29,2025-06-03
+ORD00245,Shampoo,Personal Care,1,5.99,2025-06-03
+ORD00246,Pretzels,Snacks,1,3.49,2025-07-07
+ORD00246,Candy,Snacks,1,2.49,2025-07-07
+ORD00247,Soda,Beverages,2,4.99,2025-11-12
+ORD00247,Candy,Snacks,1,2.49,2025-11-12
+ORD00248,Mustard,Condiments,3,2.29,2025-06-03
+ORD00248,Soap,Personal Care,1,2.99,2025-06-03
+ORD00248,Toilet Paper,Personal Care,1,8.99,2025-06-03
+ORD00249,Creamer,Breakfast,2,3.29,2025-07-03
+ORD00249,Ketchup,Condiments,1,2.99,2025-07-03
+ORD00249,Burger Buns,Bakery,1,2.79,2025-07-03
+ORD00249,Potato Chips,Snacks,1,3.99,2025-07-03
+ORD00249,Ground Beef,Meat,1,6.49,2025-07-03
+ORD00250,Marinara Sauce,Pasta,1,3.49,2025-05-25
+ORD00250,Spaghetti,Pasta,2,1.79,2025-05-25
+ORD00250,Parmesan Cheese,Pasta,1,4.99,2025-05-25
+ORD00251,Bananas,Produce,1,1.79,2025-08-16
+ORD00252,Toothpaste,Personal Care,1,3.29,2025-09-03
+ORD00252,Toilet Paper,Personal Care,2,8.99,2025-09-03
+ORD00252,Shampoo,Personal Care,1,5.99,2025-09-03
+ORD00253,Marinara Sauce,Pasta,1,3.49,2025-10-11
+ORD00253,Spaghetti,Pasta,2,1.79,2025-10-11
+ORD00253,Garlic Bread,Pasta,1,3.29,2025-10-11
+ORD00253,Basil,Produce,2,2.19,2025-10-11
+ORD00254,Bread,Breakfast,1,2.99,2025-06-10
+ORD00254,Coffee Filters,Breakfast,2,2.49,2025-06-10
+ORD00254,Shredded Cheese,Dairy,1,4.29,2025-06-10
+ORD00254,Orange Juice,Beverages,1,4.49,2025-06-10
+ORD00255,Diapers,Baby,1,19.99,2025-07-16
+ORD00255,Soda,Beverages,2,4.99,2025-07-16
+ORD00255,Eggs,Breakfast,1,3.49,2025-07-16
+ORD00255,Baby Wipes,Baby,1,6.99,2025-07-16
+ORD00255,Burger Buns,Bakery,1,2.79,2025-07-16
+ORD00255,Pretzels,Snacks,1,3.49,2025-07-16
+ORD00255,Baby Formula,Baby,1,22.99,2025-07-16
+ORD00255,Potato Chips,Snacks,1,3.99,2025-07-16
+ORD00256,Tortillas,Mexican,1,2.99,2025-06-21
+ORD00256,Tomatoes,Produce,2,2.99,2025-06-21
+ORD00256,Candy,Snacks,2,2.49,2025-06-21
+ORD00257,Cookies,Snacks,1,3.99,2025-01-25
+ORD00257,POTATO CHIPS,Snacks,1,3.99,2025-01-25
+ORD00257,Candy,Snacks,1,2.49,2025-01-25
+ORD00258,CREAMER,Breakfast,2,3.29,2025-12-22
+ORD00258,Coffee Beans,Beverages,1,8.99,2025-12-22
+ORD00258,Milk,Breakfast,1,3.19,2025-12-22
+ORD00258,Eggs,Breakfast,1,3.49,2025-12-22
+ORD00259,Salsa,Mexican,1,3.49,2025-07-13
+ORD00259,Toilet Paper,Personal Care,1,8.99,2025-07-13
+ORD00259,Bottled Water,Beverages,1,4.49,2025-07-13
+ORD00259,Shredded Cheese,Dairy,3,4.29,2025-07-13
+ORD00259,Tortillas,Mexican,1,2.99,2025-07-13
+ORD00260,Toilet Paper,Personal Care,1,8.99,2025-10-17
+ORD00261,Orange Juice,Beverages,1,4.49,2025-10-09
+ORD00262,Parmesan Cheese,Pasta,1,4.99,2025-03-11
+ORD00262,Spaghetti,Pasta,1,1.79,2025-03-11
+ORD00263,Coffee Beans,Beverages,1,8.99,2025-03-24
+ORD00263,Burger Buns,Bakery,2,2.79,2025-03-24
+ORD00263,Orange Juice,Beverages,1,4.49,2025-03-24
+ORD00264,BOTTLED WATER,Beverages,1,4.49,2025-07-31
+ORD00264,Soda,Beverages,2,4.99,2025-07-31
+ORD00264,Ground Beef,Meat,1,6.49,2025-07-31
+ORD00265,Paper Towels,Cleaning,1,5.49,2025-03-05
+ORD00265,Dish Soap,Cleaning,1,3.29,2025-03-05
+ORD00265,Toilet Paper,Personal Care,1,8.99,2025-03-05
+ORD00265,Coffee Beans,Beverages,1,8.99,2025-03-05
+ORD00265,Trash Bags,Cleaning,1,6.49,2025-03-05
+ORD00266,Tortillas,Mexican,1,2.99,2025-06-30
+ORD00266,Lettuce,Produce,1,2.29,2025-06-30
+ORD00267,Eggs,Breakfast,1,3.49,2025-01-30
+ORD00267,Cereal,Breakfast,1,4.29,2025-01-30
+ORD00267,Butter,Breakfast,1,3.79,2025-01-30
+ORD00267,Coffee Filters,Breakfast,2,2.49,2025-01-30
+ORD00267,Bacon,Breakfast,1,5.99,2025-01-30
+ORD00268,Soap,Personal Care,1,2.99,2025-09-01
+ORD00268,Toilet Paper,Personal Care,3,8.99,2025-09-01
+ORD00269,Paper Towels,Cleaning,1,5.49,2025-07-18
+ORD00269,Dish Soap,Cleaning,1,3.29,2025-07-18
+ORD00269,Candy,Snacks,2,2.49,2025-07-18
+ORD00270,Creamer,Breakfast,1,3.29,2025-01-24
+ORD00270,Eggs,Breakfast,1,3.49,2025-01-24
+ORD00270,Milk,Breakfast,1,3.19,2025-01-24
+ORD00270,Coffee Filters,Breakfast,1,2.49,2025-01-24
+ORD00270,Coffee Beans,Beverages,1,8.99,2025-01-24
+ORD00270,Bacon,Breakfast,1,5.99,2025-01-24
+ORD00270,Orange Juice,Beverages,1,4.49,2025-01-24
+ORD00271,Bananas,Produce,3,1.79,2025-04-12
+ORD00271,Apples,Produce,1,3.99,2025-04-12
+ORD00271,Sponges,Cleaning,1,2.49,2025-04-12
+ORD00272,Avocado,Produce,1,1.29,2025-05-13
+ORD00272,shredded cheese,Dairy,1,4.29,2025-05-13
+ORD00272,Ground Beef,Meat,1,6.49,2025-05-13
+ORD00273,PARMESAN CHEESE,Pasta,1,4.99,2025-01-03
+ORD00273,Spaghetti,Pasta,1,1.79,2025-01-03
+ORD00273,Basil,Produce,1,2.19,2025-01-03
+ORD00274,Dish Soap,Cleaning,2,3.29,2025-03-24
+ORD00274,Laundry Detergent,Cleaning,1,8.99,2025-03-24
+ORD00274,Trash Bags,Cleaning,1,6.49,2025-03-24
+ORD00275,Basil,Produce,3,2.19,2025-06-21
+ORD00275,SODA,Beverages,2,4.99,2025-06-21
+ORD00275,Burger Buns,Bakery,1,2.79,2025-06-21
+ORD00275,Mustard,Condiments,2,2.29,2025-06-21
+ORD00275,Potato Chips,Snacks,1,3.99,2025-06-21
+ORD00275,Ground Beef,Meat,1,6.49,2025-06-21
+ORD00276,Creamer,Breakfast,1,3.29,2025-04-14
+ORD00276,Soda,Beverages,1,4.99,2025-04-14
+ORD00277,Bottled Water,Beverages,2,4.49,2025-09-12
+ORD00277,Coffee Beans,Beverages,1,8.99,2025-09-12
+ORD00278,Toilet Paper,Personal Care,1,8.99,2025-10-13
+ORD00278,Shampoo,Personal Care,3,5.99,2025-10-13
+ORD00278,Tortillas,Mexican,1,2.99,2025-10-13
+ORD00278,Coffee Filters,Breakfast,1,2.49,2025-10-13
+ORD00278,Coffee Beans,Beverages,1,8.99,2025-10-13
+ORD00278,Soap,Personal Care,1,2.99,2025-10-13
+ORD00278,Bacon,Breakfast,1,5.99,2025-10-13
+ORD00278,Orange Juice,Beverages,1,4.49,2025-10-13
+ORD00279,Bananas,Produce,1,1.79,2025-02-13
+ORD00279,Spaghetti,Pasta,1,1.79,2025-02-13
+ORD00279,Basil,Produce,1,2.19,2025-02-13
+ORD00280,Marinara Sauce,Pasta,1,3.49,2025-12-23
+ORD00280,Basil,Produce,1,2.19,2025-12-23
+ORD00281,Bananas,Produce,1,1.79,2025-08-11
+ORD00281,Apples,Produce,1,3.99,2025-08-11
+ORD00281,Tomatoes,Produce,1,2.99,2025-08-11
+ORD00282,Creamer,Breakfast,1,3.29,2025-01-24
+ORD00282,Diapers,Baby,1,19.99,2025-01-24
+ORD00282,Baby Formula,Baby,1,22.99,2025-01-24
+ORD00282,Coffee Filters,Breakfast,1,2.49,2025-01-24
+ORD00282,Bread,Breakfast,1,2.99,2025-01-24
+ORD00283,Dish Soap,Cleaning,2,3.29,2025-09-08
+ORD00283,Orange Juice,Beverages,1,4.49,2025-09-08
+ORD00283,Baby Wipes,Baby,1,6.99,2025-09-08
+ORD00283,Cereal,Breakfast,1,4.29,2025-09-08
+ORD00283,Coffee Filters,Breakfast,1,2.49,2025-09-08
+ORD00283,Coffee Beans,Beverages,1,8.99,2025-09-08
+ORD00283,Bread,Breakfast,2,2.99,2025-09-08
+ORD00284,Marinara Sauce,Pasta,1,3.49,2025-01-03
+ORD00284,Garlic Bread,Pasta,1,3.29,2025-01-03
+ORD00284,Parmesan Cheese,Pasta,2,4.99,2025-01-03
+ORD00284,Bread,Breakfast,2,2.99,2025-01-03
+ORD00285,Marinara Sauce,Pasta,1,3.49,2025-02-08
+ORD00285,Spaghetti,Pasta,1,1.79,2025-02-08
+ORD00285,Garlic Bread,Pasta,1,3.29,2025-02-08
+ORD00286,Tortillas,Mexican,1,2.99,2025-08-13
+ORD00286,Salsa,Mexican,1,3.49,2025-08-13
+ORD00287,Paper Towels,Cleaning,3,5.49,2025-06-27
+ORD00287,Bottled Water,Beverages,2,4.49,2025-06-27
+ORD00287,Sponges,Cleaning,1,2.49,2025-06-27
+ORD00287,Candy,Snacks,3,2.49,2025-06-27
+ORD00288,Laundry Detergent,Cleaning,1,8.99,2025-04-11
+ORD00289,Cereal,Breakfast,2,4.29,2025-04-27
+ORD00289,cookies,Snacks,1,3.99,2025-04-27
+ORD00289,Pretzels,Snacks,1,3.49,2025-04-27
+ORD00289,Candy,Snacks,1,2.49,2025-04-27
+ORD00290,MARINARA SAUCE,Pasta,2,3.49,2025-01-18
+ORD00290,Spaghetti,Pasta,1,1.79,2025-01-18
+ORD00290,Garlic Bread,Pasta,1,3.29,2025-01-18
+ORD00290,Parmesan Cheese,Pasta,2,4.99,2025-01-18
+ORD00291,Lime,Produce,2,0.59,2025-12-24
+ORD00291,Tortillas,Mexican,3,2.99,2025-12-24
+ORD00291,Sour Cream,Dairy,1,2.29,2025-12-24
+ORD00291,Ground Beef,Meat,1,6.49,2025-12-24
+ORD00292,Soda,Beverages,1,4.99,2025-09-19
+ORD00292,Potato Chips,Snacks,1,3.99,2025-09-19
+ORD00293,Paper Towels,Cleaning,1,5.49,2025-07-01
+ORD00293,Burger Buns,Bakery,1,2.79,2025-07-01
+ORD00293,Mustard,Condiments,1,2.29,2025-07-01
+ORD00293,Potato Chips,Snacks,1,3.99,2025-07-01
+ORD00294,Tortillas,Mexican,1,2.99,2025-08-29
+ORD00294,Shredded Cheese,Dairy,3,4.29,2025-08-29
+ORD00294,Ground Beef,Meat,1,6.49,2025-08-29
+ORD00295,Spaghetti,Pasta,1,1.79,2025-02-28
+ORD00295,Ground Beef,Meat,1,6.49,2025-02-28
+ORD00296,Charcoal,Outdoor,1,7.99,2025-07-05
+ORD00296,Pretzels,Snacks,2,3.49,2025-07-05
+ORD00296,Soda,Beverages,3,4.99,2025-07-05
+ORD00296,Potato Chips,Snacks,1,3.99,2025-07-05
+ORD00297,Creamer,Breakfast,1,3.29,2025-05-17
+ORD00297,Eggs,Breakfast,1,3.49,2025-05-17
+ORD00297,Orange Juice,Beverages,2,4.49,2025-05-17
+ORD00298,Toilet Paper,Personal Care,1,8.99,2025-09-06
+ORD00299,Parmesan Cheese,Pasta,1,4.99,2025-12-13
+ORD00299,Toothpaste,Personal Care,1,3.29,2025-12-13
+ORD00299,Toilet Paper,Personal Care,1,8.99,2025-12-13
+ORD00299,Shampoo,Personal Care,1,5.99,2025-12-13
+ORD00300,Marinara Sauce,Pasta,1,3.49,2025-01-09
+ORD00300,Spaghetti,Pasta,1,1.79,2025-01-09
+ORD00300,Garlic Bread,Pasta,1,3.29,2025-01-09
+ORD00301,Creamer,Breakfast,1,3.29,2025-07-27
+ORD00301,Apples,Produce,1,3.99,2025-07-27
+ORD00301,Tomatoes,Produce,1,2.99,2025-07-27
+ORD00301,Lettuce,Produce,2,2.29,2025-07-27
+ORD00302,Dish Soap,Cleaning,1,3.29,2025-11-26
+ORD00302,Salsa,Mexican,3,3.49,2025-11-26
+ORD00302,sour cream,Dairy,1,2.29,2025-11-26
+ORD00302,Shredded Cheese,Dairy,2,4.29,2025-11-26
+ORD00302,Tortillas,Mexican,1,2.99,2025-11-26
+ORD00302,Trash Bags,Cleaning,1,6.49,2025-11-26
+ORD00303,Pretzels,Snacks,2,3.49,2025-12-04
+ORD00304,Coffee Beans,Beverages,2,8.99,2025-09-23
+ORD00304,Butter,Breakfast,1,3.79,2025-09-23
+ORD00304,Eggs,Breakfast,1,3.49,2025-09-23
+ORD00304,Bacon,Breakfast,1,5.99,2025-09-23
+ORD00305,Bottled Water,Beverages,1,4.49,2025-02-20
+ORD00306,Bottled Water,Beverages,1,4.49,2025-06-12
+ORD00306,Coffee Beans,Beverages,1,8.99,2025-06-12
+ORD00306,Soda,Beverages,1,4.99,2025-06-12
+ORD00306,Orange Juice,Beverages,1,4.49,2025-06-12
+ORD00307,Marinara Sauce,Pasta,1,3.49,2025-07-02
+ORD00307,Spaghetti,Pasta,1,1.79,2025-07-02
+ORD00307,KETCHUP,Condiments,1,2.99,2025-07-02
+ORD00307,Ground Beef,Meat,1,6.49,2025-07-02
+ORD00308,Eggs,Breakfast,1,3.49,2025-10-13
+ORD00308,Milk,Breakfast,1,3.19,2025-10-13
+ORD00308,Coffee Filters,Breakfast,1,2.49,2025-10-13
+ORD00308,Coffee Beans,Beverages,1,8.99,2025-10-13
+ORD00308, Bread ,Breakfast,1,2.99,2025-10-13
+ORD00309,Bottled Water,Beverages,2,4.49,2025-09-22
+ORD00309, Baby Wipes ,Baby,1,6.99,2025-09-22
+ORD00310,Baby Wipes,Baby,2,6.99,2025-11-06
+ORD00310,Milk,Breakfast,1,3.19,2025-11-06
+ORD00310,Baby Formula,Baby,1,22.99,2025-11-06
+ORD00311,Marinara Sauce,Pasta,1,3.49,2025-07-22
+ORD00311,Coffee Beans,Beverages,1,8.99,2025-07-22
+ORD00311,Spaghetti,Pasta,1,1.79,2025-07-22
+ORD00311,Burger Buns,Bakery,1,2.79,2025-07-22
+ORD00312,Potato Chips,Snacks,1,3.99,2025-08-13
+ORD00312,Candy,Snacks,2,2.49,2025-08-13
+ORD00313,Paper Towels,Cleaning,1,5.49,2025-03-04
+ORD00313,Dish Soap,Cleaning,2,3.29,2025-03-04
+ORD00313,Marinara Sauce,Pasta,1,3.49,2025-03-04
+ORD00313,Basil,Produce,1,2.19,2025-03-04
+ORD00313,Ground Beef,Meat,1,6.49,2025-03-04
+ORD00314,Dish Soap,Cleaning,1,3.29,2025-03-18
+ORD00315,Bananas,Produce,1,1.79,2025-04-24
+ORD00315,Salsa,Mexican,1,3.49,2025-04-24
+ORD00315,Shredded Cheese,Dairy,2,4.29,2025-04-24
+ORD00315,Bread,Breakfast,2,2.99,2025-04-24
+ORD00316,Charcoal,Outdoor,1,7.99,2025-05-06
+ORD00316,Ketchup,Condiments,1,2.99,2025-05-06
+ORD00316,Soda,Beverages,1,4.99,2025-05-06
+ORD00316,Burger Buns,Bakery,1,2.79,2025-05-06
+ORD00316,Mustard,Condiments,1,2.29,2025-05-06
+ORD00316,Potato Chips,Snacks,1,3.99,2025-05-06
+ORD00317,Soap,Personal Care,1,2.99,2025-02-20
+ORD00318,Creamer,Breakfast,1,3.29,2025-06-02
+ORD00318,Eggs,Breakfast,1,3.49,2025-06-02
+ORD00318,Toilet Paper,Personal Care,1,8.99,2025-06-02
+ORD00318,Milk,Breakfast,2,3.19,2025-06-02
+ORD00318,Shampoo,Personal Care,1,5.99,2025-06-02
+ORD00318,Coffee Beans,Beverages,1,8.99,2025-06-02
+ORD00318,Soap,Personal Care,1,2.99,2025-06-02
+ORD00318,Bread,Breakfast,1,2.99,2025-06-02
+ORD00319,Bottled Water,Beverages,3,4.49,2025-07-31
+ORD00319,Burger Buns,Bakery,1,2.79,2025-07-31
+ORD00319,Soda,Beverages,1,4.99,2025-07-31
+ORD00319,Ground Beef,Meat,1,6.49,2025-07-31
+ORD00320,Marinara Sauce,Pasta,1,3.49,2025-02-13
+ORD00320,Garlic Bread,Pasta,1,3.29,2025-02-13
+ORD00320,Ground Beef,Meat,1,6.49,2025-02-13
+ORD00321,Coffee Beans,Beverages,2,8.99,2025-07-21
+ORD00321,Dish Soap,Cleaning,1,3.29,2025-07-21
+ORD00322,Parmesan Cheese,Pasta,1,4.99,2025-11-13
+ORD00322,Spaghetti,Pasta,1,1.79,2025-11-13
+ORD00322,Garlic Bread,Pasta,2,3.29,2025-11-13
+ORD00322,basil,Produce,1,2.19,2025-11-13
+ORD00323,Bananas,Produce,1,1.79,2025-10-03
+ORD00323,Tomatoes,Produce,2,2.99,2025-10-03
+ORD00323,Sour Cream,Dairy,1,2.29,2025-10-03
+ORD00323,Lettuce,Produce,2,2.29,2025-10-03
+ORD00324,Spaghetti,Pasta,1,1.79,2025-01-03
+ORD00324,Apples,Produce,1,3.99,2025-01-03
+ORD00324,Tomatoes,Produce,2,2.99,2025-01-03
+ORD00324,Lettuce,Produce,3,2.29,2025-01-03
+ORD00325,Bananas,Produce,1,1.79,2025-11-15
+ORD00325,Eggs,Breakfast,2,3.49,2025-11-15
+ORD00325,Tomatoes,Produce,1,2.99,2025-11-15
+ORD00326,Soda,Beverages,1,4.99,2025-09-26
+ORD00327,Mustard,Condiments,3,2.29,2025-12-28
+ORD00327,Shampoo,Personal Care,1,5.99,2025-12-28
+ORD00328,Creamer,Breakfast,1,3.29,2025-03-29
+ORD00328,Bread,Breakfast,1,2.99,2025-03-29
+ORD00328,Toilet Paper,Personal Care,1,8.99,2025-03-29
+ORD00328, Orange Juice ,Beverages,1,4.49,2025-03-29
+ORD00329,Soap,Personal Care,1,2.99,2025-05-07
+ORD00329,Toothpaste,Personal Care,1,3.29,2025-05-07
+ORD00329,Toilet Paper,Personal Care,1,8.99,2025-05-07
+ORD00330,Parmesan Cheese,Pasta,2,4.99,2025-09-09
+ORD00331,Spaghetti,Pasta,1,1.79,2025-02-09
+ORD00331,Sour Cream,Dairy,2,2.29,2025-02-09
+ORD00331,Marinara Sauce,Pasta,1,3.49,2025-02-09
+ORD00331,Garlic Bread,Pasta,1,3.29,2025-02-09
+ORD00331,Sponges,Cleaning,2,2.49,2025-02-09
+ORD00332,Cookies,Snacks,1,3.99,2025-09-19
+ORD00333,Paper Towels,Cleaning,1,5.49,2025-02-23
+ORD00333,Dish Soap,Cleaning,1,3.29,2025-02-23
+ORD00333,Pretzels,Snacks,1,3.49,2025-02-23
+ORD00333,Laundry Detergent,Cleaning,1,8.99,2025-02-23
+ORD00333,SPONGES,Cleaning,1,2.49,2025-02-23
+ORD00333,Potato Chips,Snacks,3,3.99,2025-02-23
+ORD00334,Tomatoes,Produce,1,2.99,2025-04-17
+ORD00334,Cookies,Snacks,3,3.99,2025-04-17
+ORD00334,Potato Chips,Snacks,1,3.99,2025-04-17
+ORD00335,Baby Formula,Baby,1,22.99,2025-04-19
+ORD00335,Soap,Personal Care,1,2.99,2025-04-19
+ORD00335,Toothpaste,Personal Care,1,3.29,2025-04-19
+ORD00335,Toilet Paper,Personal Care,3,8.99,2025-04-19
+ORD00336,Diapers,Baby,1,19.99,2025-09-12
+ORD00336,Eggs,Breakfast,2,3.49,2025-09-12
+ORD00336,Toothpaste,Personal Care,1,3.29,2025-09-12
+ORD00336,Toilet  Paper,Personal Care,1,8.99,2025-09-12
+ORD00336, Shampoo ,Personal Care,2,5.99,2025-09-12
+ORD00337,Milk,Breakfast,1,3.19,2025-10-16
+ORD00338,Creamer,Breakfast,3,3.29,2025-01-02
+ORD00338,Eggs,Breakfast,1,3.49,2025-01-02
+ORD00338,Milk,Breakfast,1,3.19,2025-01-02
+ORD00338,Butter,Breakfast,1,3.79,2025-01-02
+ORD00338,Coffee Filters,Breakfast,2,2.49,2025-01-02
+ORD00338,Coffee Beans,Beverages,1,8.99,2025-01-02
+ORD00338,Orange Juice,Beverages,2,4.49,2025-01-02
+ORD00339,Dish Soap,Cleaning,1,3.29,2025-04-24
+ORD00339,EGGS,Breakfast,1,3.49,2025-04-24
+ORD00339,Cereal,Breakfast,2,4.29,2025-04-24
+ORD00339,Coffee Filters,Breakfast,1,2.49,2025-04-24
+ORD00339,Coffee Beans,Beverages,3,8.99,2025-04-24
+ORD00339,Bacon,Breakfast,1,5.99,2025-04-24
+ORD00340,Marinara Sauce,Pasta,2,3.49,2025-10-17
+ORD00340,Spaghetti,Pasta,1,1.79,2025-10-17
+ORD00341,Parmesan Cheese,Pasta,1,4.99,2025-09-01
+ORD00341,Basil,Produce,3,2.19,2025-09-01
+ORD00341,Ground Beef,Meat,1,6.49,2025-09-01
+ORD00342,Bananas,Produce,1,1.79,2025-04-14
+ORD00342,Lime,Produce,2,0.59,2025-04-14
+ORD00342,Tomatoes,Produce,1,2.99,2025-04-14
+ORD00342,Lettuce,Produce,1,2.29,2025-04-14
+ORD00343,soda,Beverages,1,4.99,2025-06-08
+ORD00343,Bottled Water,Beverages,1,4.49,2025-06-08
+ORD00343,Coffee Beans,Beverages,1,8.99,2025-06-08
+ORD00343,SPONGES,Cleaning,1,2.49,2025-06-08
+ORD00343,Basil,Produce,1,2.19,2025-06-08
+ORD00343,Orange Juice,Beverages,1,4.49,2025-06-08
+ORD00344,Orange Juice,Beverages,1,4.49,2025-09-25
+ORD00344,SODA,Beverages,1,4.99,2025-09-25
+ORD00344,Potato Chips,Snacks,1,3.99,2025-09-25
+ORD00344,Candy,Snacks,1,2.49,2025-09-25
+ORD00345,Paper Towels,Cleaning,1,5.49,2025-03-09
+ORD00345,Dish Soap,Cleaning,2,3.29,2025-03-09
+ORD00345,Soda,Beverages,3,4.99,2025-03-09
+ORD00345,Coffee Beans,Beverages,1,8.99,2025-03-09
+ORD00345,Laundry Detergent,Cleaning,1,8.99,2025-03-09
+ORD00345,Sponges,Cleaning,1,2.49,2025-03-09
+ORD00345,Orange Juice,Beverages,1,4.49,2025-03-09
+ORD00346,Charcoal,Outdoor,2,7.99,2025-04-05
+ORD00346,Spaghetti,Pasta,2,1.79,2025-04-05
+ORD00346,Soda,Beverages,1,4.99,2025-04-05
+ORD00346,Bananas,Produce,1,1.79,2025-04-05
+ORD00346,Burger Buns,Bakery,2,2.79,2025-04-05
+ORD00346,Apples,Produce,1,3.99,2025-04-05
+ORD00346,Baby Food,Baby,1,4.99,2025-04-05
+ORD00346,Lettuce,Produce,1,2.29,2025-04-05
+ORD00347,Creamer,Breakfast,2,3.29,2025-11-21
+ORD00347,Diapers,Baby,1,19.99,2025-11-21
+ORD00347,Eggs,Breakfast,2,3.49,2025-11-21
+ORD00347,Baby Wipes,Baby,1,6.99,2025-11-21
+ORD00347,Baby Formula,Baby,1,22.99,2025-11-21
+ORD00347,Coffee Filters,Breakfast,2,2.49,2025-11-21
+ORD00347,Coffee Beans,Beverages,1,8.99,2025-11-21
+ORD00347,Bread,Breakfast,2,2.99,2025-11-21
+ORD00348,Paper Towels,Cleaning,2,5.49,2025-05-12
+ORD00348,Laundry Detergent,Cleaning,2,8.99,2025-05-12
+ORD00348,Trash Bags,Cleaning,1,6.49,2025-05-12
+ORD00349,Sponges,Cleaning,2,2.49,2025-02-20
+ORD00350,Laundry Detergent,Cleaning,1,8.99,2025-07-30
+ORD00350,Mustard,Condiments,2,2.29,2025-07-30
+ORD00351,Bananas,Produce,1,1.79,2025-10-20
+ORD00351,Apples,Produce,3,3.99,2025-10-20
+ORD00351,Tomatoes,Produce,1,2.99,2025-10-20
+ORD00352,Soap,Personal Care,1,2.99,2025-11-04
+ORD00352,Toilet Paper,Personal Care,1,8.99,2025-11-04
+ORD00353,Creamer,Breakfast,1,3.29,2025-12-01
+ORD00353,Toilet Paper,Personal Care,1,8.99,2025-12-01
+ORD00353,Shampoo,Personal Care,1,5.99,2025-12-01
+ORD00354,Bananas,Produce,1,1.79,2025-08-04
+ORD00354,Tomatoes,Produce,1,2.99,2025-08-04
+ORD00354,Lettuce,Produce,3,2.29,2025-08-04
+ORD00355,Diapers,Baby,2,19.99,2025-11-15
+ORD00355,Ketchup,Condiments,1,2.99,2025-11-15
+ORD00355,Toothpaste,Personal Care,2,3.29,2025-11-15
+ORD00355,Toilet Paper,Personal Care,2,8.99,2025-11-15
+ORD00356,Ketchup,Condiments,1,2.99,2025-04-07
+ORD00356,Toothpaste,Personal Care,1,3.29,2025-04-07
+ORD00356,Ground Beef,Meat,1,6.49,2025-04-07
+ORD00357,Sour Cream,Dairy,1,2.29,2025-01-10
+ORD00357,Salsa,Mexican,1,3.49,2025-01-10
+ORD00357,Shredded Cheese,Dairy,1,4.29,2025-01-10
+ORD00357,Ground Beef,Meat,1,6.49,2025-01-10
+ORD00358,Apples,Produce,2,3.99,2025-03-18
+ORD00358,Shampoo,Personal Care,2,5.99,2025-03-18
+ORD00359,Soda,Beverages,1,4.99,2025-01-11
+ORD00359,Candy,Snacks,1,2.49,2025-01-11
+ORD00360,Baby Wipes,Baby,1,6.99,2025-02-18
+ORD00360,Diapers,Baby,1,19.99,2025-02-18
+ORD00360,Bacon,Breakfast,2,5.99,2025-02-18
+ORD00360,Lime,Produce,1,0.59,2025-02-18
+ORD00361,Creamer,Breakfast,1,3.29,2025-07-28
+ORD00361,Eggs,Breakfast,1,3.49,2025-07-28
+ORD00361,Cereal,Breakfast,1,4.29,2025-07-28
+ORD00361,Milk,Breakfast,2,3.19,2025-07-28
+ORD00361,BURGER BUNS,Bakery,1,2.79,2025-07-28
+ORD00361,Butter,Breakfast,1,3.79,2025-07-28
+ORD00361,Coffee Filters,Breakfast,1,2.49,2025-07-28
+ORD00361,Coffee Beans,Beverages,1,8.99,2025-07-28
+ORD00361,Bacon,Breakfast,1,5.99,2025-07-28
+ORD00361,Orange Juice,Beverages,1,4.49,2025-07-28
+ORD00362,Laundry Detergent,Cleaning,1,8.99,2025-11-11
+ORD00362,Sponges,Cleaning,1,2.49,2025-11-11
+ORD00363,Charcoal,Outdoor,1,7.99,2025-08-27
+ORD00363,Ketchup,Condiments,1,2.99,2025-08-27
+ORD00363,Soda,Beverages,1,4.99,2025-08-27
+ORD00363,Burger Buns,Bakery,1,2.79,2025-08-27
+ORD00363,Mustard,Condiments,1,2.29,2025-08-27
+ORD00363,Potato Chips,Snacks,1,3.99,2025-08-27
+ORD00363,Ground Beef,Meat,1,6.49,2025-08-27
+ORD00364,Creamer,Breakfast,2,3.29,2025-04-12
+ORD00365,Burger Buns,Bakery,1,2.79,2025-04-12
+ORD00365,Ketchup,Condiments,2,2.99,2025-04-12
+ORD00365,Dish Soap,Cleaning,1,3.29,2025-04-12
+ORD00365, Potato Chips ,Snacks,1,3.99,2025-04-12
+ORD00366,Tortillas,Mexican,1,2.99,2025-10-07
+ORD00366,Salsa,Mexican,1,3.49,2025-10-07
+ORD00366,Sour Cream,Dairy,1,2.29,2025-10-07
+ORD00366,Ground Beef,Meat,2,6.49,2025-10-07
+ORD00367,Laundry Detergent,Cleaning,1,8.99,2025-04-01
+ORD00367,Soda,Beverages,1,4.99,2025-04-01
+ORD00368,Bananas,Produce,1,1.79,2025-05-11
+ORD00368,Apples,Produce,1,3.99,2025-05-11
+ORD00368,Tomatoes,Produce,2,2.99,2025-05-11
+ORD00369,Tortillas,Mexican,1,2.99,2025-02-03
+ORD00369,Ketchup,Condiments,1,2.99,2025-02-03
+ORD00369,Shredded Cheese,Dairy,1,4.29,2025-02-03
+ORD00369,Lime,Produce,2,0.59,2025-02-03
+ORD00370,dish soap,Cleaning,2,3.29,2025-01-16
+ORD00370,Diapers,Baby,1,19.99,2025-01-16
+ORD00370,Baby Food,Baby,1,4.99,2025-01-16
+ORD00370,Baby Formula,Baby,1,22.99,2025-01-16
+ORD00371,Parmesan Cheese,Pasta,2,4.99,2025-12-26
+ORD00371,Spaghetti,Pasta,1,1.79,2025-12-26
+ORD00371,Lime,Produce,1,0.59,2025-12-26
+ORD00371,Garlic Bread,Pasta,1,3.29,2025-12-26
+ORD00371,Basil,Produce,1,2.19,2025-12-26
+ORD00372,Candy,Snacks,1,2.49,2025-11-16
+ORD00373,Toothpaste,Personal Care,2,3.29,2025-08-19
+ORD00373,Toilet Paper,Personal Care,1,8.99,2025-08-19
+ORD00373,Shampoo,Personal Care,1,5.99,2025-08-19
+ORD00374,Pretzels,Snacks,1,3.49,2025-02-23
+ORD00374,Soda,Beverages,1,4.99,2025-02-23
+ORD00374,Potato Chips,Snacks,1,3.99,2025-02-23
+ORD00375,Potato Chips,Snacks,1,3.99,2025-11-27
+ORD00375,Eggs,Breakfast,1,3.49,2025-11-27
+ORD00375,Soda,Beverages,1,4.99,2025-11-27
+ORD00375,Candy,Snacks,2,2.49,2025-11-27
+ORD00375,Coffee Filters,Breakfast,1,2.49,2025-11-27
+ORD00375,Pretzels,Snacks,1,3.49,2025-11-27
+ORD00376,Bananas,Produce,1,1.79,2025-03-05
+ORD00376,Butter,Breakfast,1,3.79,2025-03-05
+ORD00376,Apples,Produce,1,3.99,2025-03-05
+ORD00376,Tomatoes,Produce,3,2.99,2025-03-05
+ORD00377,Paper Towels,Cleaning,1,5.49,2025-05-10
+ORD00377,Laundry Detergent,Cleaning,1,8.99,2025-05-10
+ORD00377,Sponges,Cleaning,1,2.49,2025-05-10
+ORD00378,Avocado,Produce,2,1.29,2025-03-14
+ORD00378,Shredded Cheese,Dairy,1,4.29,2025-03-14
+ORD00378,Tortillas,Mexican,1,2.99,2025-03-14
+ORD00378,Pretzels,Snacks,2,3.49,2025-03-14
+ORD00378,Ground Beef,Meat,2,6.49,2025-03-14
+ORD00379,Marinara Sauce,Pasta,1,3.49,2025-11-06
+ORD00379,Spaghetti,Pasta,1,1.79,2025-11-06
+ORD00379,Ground Beef,Meat,1,6.49,2025-11-06
+ORD00380,Soda,Beverages,1,4.99,2025-03-02
+ORD00380,Eggs,Breakfast,1,3.49,2025-03-02
+ORD00380,Cereal,Breakfast,3,4.29,2025-03-02
+ORD00380,Milk,Breakfast,1,3.19,2025-03-02
+ORD00380,Coffee Beans,Beverages,1,8.99,2025-03-02
+ORD00381,Parmesan Cheese,Pasta,1,4.99,2025-12-03
+ORD00381,Salsa,Mexican,1,3.49,2025-12-03
+ORD00381,Sour Cream,Dairy,1,2.29,2025-12-03
+ORD00381,Lettuce,Produce,1,2.29,2025-12-03
+ORD00381,Shredded Cheese,Dairy,2,4.29,2025-12-03
+ORD00381,Tortillas,Mexican,2,2.99,2025-12-03
+ORD00381,Ground Beef,Meat,1,6.49,2025-12-03
+ORD00382,Paper Towels,Cleaning,2,5.49,2025-05-25
+ORD00382,Dish Soap,Cleaning,3,3.29,2025-05-25
+ORD00382,Salsa,Mexican,1,3.49,2025-05-25
+ORD00382,Sour Cream,Dairy,1,2.29,2025-05-25
+ORD00382,Lime,Produce,1,0.59,2025-05-25
+ORD00382,Baby Wipes,Baby,1,6.99,2025-05-25
+ORD00382,Laundry Detergent,Cleaning,2,8.99,2025-05-25
+ORD00382,Ground Beef,Meat,2,6.49,2025-05-25
+ORD00383,Paper Towels,Cleaning,2,5.49,2025-05-25
+ORD00383,DISH SOAP,Cleaning,1,3.29,2025-05-25
+ORD00383,Tortillas,Mexican,1,2.99,2025-05-25
+ORD00383,Trash Bags,Cleaning,1,6.49,2025-05-25
+ORD00384,Tortillas,Mexican,2,2.99,2025-05-09
+ORD00384,Dish Soap,Cleaning,2,3.29,2025-05-09
+ORD00384,Apples,Produce,1,3.99,2025-05-09
+ORD00385,Creamer,Breakfast,2,3.29,2025-09-15
+ORD00385,Orange Juice,Beverages,1,4.49,2025-09-15
+ORD00385,Eggs,Breakfast,1,3.49,2025-09-15
+ORD00385,Cereal,Breakfast,2,4.29,2025-09-15
+ORD00385,Milk,Breakfast,1,3.19,2025-09-15
+ORD00385,Bread,Breakfast,2,2.99,2025-09-15
+ORD00386,Parmesan Cheese,Pasta,1,4.99,2025-05-15
+ORD00386,Garlic Bread,Pasta,2,3.29,2025-05-15
+ORD00387,Bananas,Produce,1,1.79,2025-03-14
+ORD00387,Apples,Produce,2,3.99,2025-03-14
+ORD00387,Lettuce,Produce,1,2.29,2025-03-14
+ORD00388,Toothpaste,Personal Care,2,3.29,2025-04-07
+ORD00388,Shampoo,Personal Care,1,5.99,2025-04-07
+ORD00389,Lime,Produce,1,0.59,2025-01-06
+ORD00389,Tortillas,Mexican,1,2.99,2025-01-06
+ORD00389,Shredded Cheese,Dairy,2,4.29,2025-01-06
+ORD00389,Ground Beef,Meat,1,6.49,2025-01-06
+ORD00390,Marinara Sauce,Pasta,1,3.49,2025-11-12
+ORD00390,Spaghetti,Pasta,2,1.79,2025-11-12
+ORD00390,Basil,Produce,1,2.19,2025-11-12
+ORD00391,Coffee Beans,Beverages,1,8.99,2025-11-16
+ORD00391,Soap,Personal Care,1,2.99,2025-11-16
+ORD00391,Toothpaste,Personal Care,1,3.29,2025-11-16
+ORD00391,Toilet Paper,Personal Care,3,8.99,2025-11-16
+ORD00392,Bananas,Produce,1,1.79,2025-12-08
+ORD00392,Cookies,Snacks,3,3.99,2025-12-08
+ORD00392,Toothpaste,Personal Care,1,3.29,2025-12-08
+ORD00393,Eggs,Breakfast,1,3.49,2025-02-14
+ORD00393,Cereal,Breakfast,1,4.29,2025-02-14
+ORD00393,Milk,Breakfast,1,3.19,2025-02-14
+ORD00393,Coffee Beans,Beverages,2,8.99,2025-02-14
+ORD00393,Bacon,Breakfast,1,5.99,2025-02-14
+ORD00394,Coffee Beans,Beverages,1,8.99,2025-11-10
+ORD00394,Butter,Breakfast,1,3.79,2025-11-10
+ORD00394,Eggs,Breakfast,1,3.49,2025-11-10
+ORD00394,Candy,Snacks,1,2.49,2025-11-10
+ORD00395,Coffee Beans,Beverages,1,8.99,2025-03-23
+ORD00395,Tortillas,Mexican,1,2.99,2025-03-23
+ORD00396,Salsa,Mexican,1,3.49,2025-06-26
+ORD00396,Cookies,Snacks,2,3.99,2025-06-26
+ORD00396,Basil,Produce,2,2.19,2025-06-26
+ORD00397,Creamer,Breakfast,2,3.29,2025-11-18
+ORD00397,Coffee Filters,Breakfast,2,2.49,2025-11-18
+ORD00397,Eggs,Breakfast,2,3.49,2025-11-18
+ORD00397,bread,Breakfast,1,2.99,2025-11-18
+ORD00398,Marinara Sauce,Pasta,1,3.49,2025-05-30
+ORD00398,Pretzels,Snacks,1,3.49,2025-05-30
+ORD00398,Eggs,Breakfast,2,3.49,2025-05-30
+ORD00398,Potato Chips,Snacks,1,3.99,2025-05-30
+ORD00399,Paper Towels,Cleaning,2,5.49,2025-10-06
+ORD00399,Laundry Detergent,Cleaning,1,8.99,2025-10-06
+ORD00399,Sponges,Cleaning,1,2.49,2025-10-06
+ORD00399,Pretzels,Snacks,1,3.49,2025-10-06
+ORD00400,Diapers,Baby,2,19.99,2025-02-27
+ORD00400,Shampoo,Personal Care,2,5.99,2025-02-27
+ORD00401,Soap,Personal Care,1,2.99,2025-01-08
+ORD00402,Eggs,Breakfast,1,3.49,2025-08-17
+ORD00402,Bottled Water,Beverages,1,4.49,2025-08-17
+ORD00402,Cereal,Breakfast,3,4.29,2025-08-17
+ORD00402,Butter,Breakfast,1,3.79,2025-08-17
+ORD00402,Coffee Beans,Beverages,2,8.99,2025-08-17
+ORD00402,Sponges,Cleaning,1,2.49,2025-08-17
+ORD00402,Bread,Breakfast,3,2.99,2025-08-17
+ORD00403,Parmesan Cheese,Pasta,2,4.99,2025-08-23
+ORD00403,Spaghetti,Pasta,1,1.79,2025-08-23
+ORD00403,Garlic Bread,Pasta,1,3.29,2025-08-23
+ORD00403,Coffee Filters,Breakfast,1,2.49,2025-08-23
+ORD00404,Dish Soap,Cleaning,2,3.29,2025-08-16
+ORD00404,Baby Wipes,Baby,2,6.99,2025-08-16
+ORD00404,Cookies,Snacks,1,3.99,2025-08-16
+ORD00404,Laundry Detergent,Cleaning,2,8.99,2025-08-16
+ORD00404,Sponges,Cleaning,1,2.49,2025-08-16
+ORD00405,Tortillas,Mexican,1,2.99,2025-02-26
+ORD00405,Shredded Cheese,Dairy,1,4.29,2025-02-26
+ORD00406,Soap,Personal Care,3,2.99,2025-11-16
+ORD00406,Toilet Paper,Personal Care,1,8.99,2025-11-16
+ORD00407,Apples,Produce,1,3.99,2025-03-04
+ORD00407,Tortillas,Mexican,3,2.99,2025-03-04
+ORD00407,Salsa,Mexican,1,3.49,2025-03-04
+ORD00407,Ground Beef,Meat,1,6.49,2025-03-04
+ORD00408,creamer,Breakfast,2,3.29,2025-01-15
+ORD00408,Eggs,Breakfast,1,3.49,2025-01-15
+ORD00408,Milk,Breakfast,1,3.19,2025-01-15
+ORD00408,Butter,Breakfast,2,3.79,2025-01-15
+ORD00408,Coffee Filters,Breakfast,1,2.49,2025-01-15
+ORD00408,Orange Juice,Beverages,1,4.49,2025-01-15
+ORD00409,Charcoal,Outdoor,1,7.99,2025-08-27
+ORD00409,Lime,Produce,1,0.59,2025-08-27
+ORD00409,Ground Beef,Meat,1,6.49,2025-08-27
+ORD00410,Baby Wipes,Baby,2,6.99,2025-01-16
+ORD00410,Diapers,Baby,2,19.99,2025-01-16
+ORD00411,Charcoal,Outdoor,2,7.99,2025-07-12
+ORD00411,Burger Buns,Bakery,1,2.79,2025-07-12
+ORD00411,Baby Food,Baby,1,4.99,2025-07-12
+ORD00411,Potato Chips,Snacks,1,3.99,2025-07-12
+ORD00411,Ground Beef,Meat,1,6.49,2025-07-12
+ORD00412,Bananas,Produce,1,1.79,2025-11-10
+ORD00412,TOMATOES,Produce,2,2.99,2025-11-10
+ORD00413,Burger Buns,Bakery,1,2.79,2025-06-06
+ORD00413,Sponges,Cleaning,1,2.49,2025-06-06
+ORD00413,Ground Beef,Meat,2,6.49,2025-06-06
+ORD00414,Creamer,Breakfast,1,3.29,2025-06-25
+ORD00415,Tortillas,Mexican,1,2.99,2025-02-03
+ORD00415,Salsa,Mexican,1,3.49,2025-02-03
+ORD00415,Sour Cream,Dairy,1,2.29,2025-02-03
+ORD00415,Lettuce,Produce,1,2.29,2025-02-03
+ORD00416,Avocado,Produce,1,1.29,2025-06-18
+ORD00416,Tortillas,Mexican,1,2.99,2025-06-18
+ORD00416,Bacon,Breakfast,1,5.99,2025-06-18
+ORD00416,Lime,Produce,1,0.59,2025-06-18
+ORD00417,Soap,Personal Care,3,2.99,2025-05-22
+ORD00417,Toilet Paper,Personal Care,1,8.99,2025-05-22
+ORD00418,Potato Chips,Snacks,2,3.99,2025-11-08
+ORD00418,Soda,Beverages,1,4.99,2025-11-08
+ORD00418,Candy,Snacks,1,2.49,2025-11-08
+ORD00418,Pretzels,Snacks,1,3.49,2025-11-08
+ORD00418,Lettuce,Produce,1,2.29,2025-11-08
+ORD00419,Avocado,Produce,1,1.29,2025-08-06
+ORD00419,Salsa,Mexican,2,3.49,2025-08-06
+ORD00419, Shredded Cheese ,Dairy,1,4.29,2025-08-06
+ORD00419,Ground Beef,Meat,1,6.49,2025-08-06
+ORD00420,Diapers,Baby,1,19.99,2025-08-29
+ORD00420,Soap,Personal Care,1,2.99,2025-08-29
+ORD00420,Apples,Produce,1,3.99,2025-08-29
+ORD00421,Tortillas,Mexican,1,2.99,2025-06-18
+ORD00421,Salsa,Mexican,1,3.49,2025-06-18
+ORD00422,Coffee Beans,Beverages,1,8.99,2025-09-26
+ORD00422,Cereal,Breakfast,1,4.29,2025-09-26
+ORD00422,Milk,Breakfast,2,3.19,2025-09-26
+ORD00422,Eggs,Breakfast,1,3.49,2025-09-26
+ORD00423,Lettuce,Produce,1,2.29,2025-04-21
+ORD00423,Avocado,Produce,3,1.29,2025-04-21
+ORD00423,Toilet Paper,Personal Care,1,8.99,2025-04-21
+ORD00423,Shampoo,Personal Care,1,5.99,2025-04-21
+ORD00424,Baby Wipes,Baby,1,6.99,2025-06-14
+ORD00424,Baby Formula,Baby,1,22.99,2025-06-14
+ORD00424,Ground Beef,Meat,1,6.49,2025-06-14
+ORD00425,Charcoal,Outdoor,1,7.99,2025-06-22
+ORD00425,Eggs,Breakfast,1,3.49,2025-06-22
+ORD00425,Soda,Beverages,2,4.99,2025-06-22
+ORD00425,Baby Food,Baby,1,4.99,2025-06-22
+ORD00425,Trash Bags,Cleaning,2,6.49,2025-06-22
+ORD00426,Parmesan Cheese,Pasta,1,4.99,2025-12-19
+ORD00426,Spaghetti,Pasta,1,1.79,2025-12-19
+ORD00426,Toothpaste,Personal Care,1,3.29,2025-12-19
+ORD00426,Toilet Paper,Personal Care,1,8.99,2025-12-19
+ORD00426,Garlic Bread,Pasta,2,3.29,2025-12-19
+ORD00426,Soap,Personal Care,1,2.99,2025-12-19
+ORD00427,pretzels,Snacks,2,3.49,2025-10-30
+ORD00427,COOKIES,Snacks,3,3.99,2025-10-30
+ORD00427,Potato Chips,Snacks,1,3.99,2025-10-30
+ORD00427,Candy,Snacks,1,2.49,2025-10-30
+ORD00428,Soap,Personal Care,1,2.99,2025-06-10
+ORD00428,Orange Juice,Beverages,3,4.49,2025-06-10
+ORD00429,creamer,Breakfast,1,3.29,2025-01-29
+ORD00429,Eggs,Breakfast,1,3.49,2025-01-29
+ORD00429,Ground Beef,Meat,1,6.49,2025-01-29
+ORD00429,Marinara Sauce,Pasta,2,3.49,2025-01-29
+ORD00429,Coffee Filters,Breakfast,3,2.49,2025-01-29
+ORD00429,Bacon,Breakfast,2,5.99,2025-01-29
+ORD00429,Orange Juice,Beverages,1,4.49,2025-01-29
+ORD00430,Paper Towels,Cleaning,3,5.49,2025-11-07
+ORD00430,Coffee Beans,Beverages,1,8.99,2025-11-07
+ORD00430,Dish Soap,Cleaning,1,3.29,2025-11-07
+ORD00430,Avocado,Produce,2,1.29,2025-11-07
+ORD00431,Toilet Paper,Personal Care,1,8.99,2025-03-17
+ORD00431,Shampoo,Personal Care,1,5.99,2025-03-17
+ORD00432,Eggs,Breakfast,1,3.49,2025-01-27
+ORD00432,Bacon,Breakfast,1,5.99,2025-01-27
+ORD00432,Toothpaste,Personal Care,1,3.29,2025-01-27
+ORD00432,Cereal,Breakfast,1,4.29,2025-01-27
+ORD00432,Laundry Detergent,Cleaning,1,8.99,2025-01-27
+ORD00432,Trash Bags,Cleaning,1,6.49,2025-01-27
+ORD00433,Paper Towels,Cleaning,1,5.49,2025-04-17
+ORD00433,Dish Soap,Cleaning,1,3.29,2025-04-17
+ORD00433,Laundry Detergent,Cleaning,2,8.99,2025-04-17
+ORD00434, Baby Wipes ,Baby,2,6.99,2025-09-07
+ORD00434, Diapers ,Baby,1,19.99,2025-09-07
+ORD00434,Baby Formula,Baby,1,22.99,2025-09-07
+ORD00435,Tortillas,Mexican,2,2.99,2025-12-11
+ORD00435,Salsa,Mexican,1,3.49,2025-12-11
+ORD00435,Ground Beef,Meat,1,6.49,2025-12-11
+ORD00436,Pretzels,Snacks,1,3.49,2025-04-06
+ORD00436,Cookies,Snacks,1,3.99,2025-04-06
+ORD00436, Potato Chips ,Snacks,1,3.99,2025-04-06
+ORD00437,Dish  Soap,Cleaning,2,3.29,2025-03-19
+ORD00437,Coffee Filters,Breakfast,1,2.49,2025-03-19
+ORD00437,Sponges,Cleaning,1,2.49,2025-03-19
+ORD00437,ORANGE JUICE,Beverages,2,4.49,2025-03-19
+ORD00438,Eggs,Breakfast,2,3.49,2025-06-17
+ORD00438,Tomatoes,Produce,1,2.99,2025-06-17
+ORD00438,Laundry Detergent,Cleaning,1,8.99,2025-06-17
+ORD00438,Sponges,Cleaning,1,2.49,2025-06-17
+ORD00438,Trash Bags,Cleaning,2,6.49,2025-06-17
+ORD00439,Parmesan Cheese,Pasta,1,4.99,2025-06-25
+ORD00439,Spaghetti,Pasta,1,1.79,2025-06-25
+ORD00439,Marinara Sauce,Pasta,1,3.49,2025-06-25
+ORD00439,Soap,Personal Care,1,2.99,2025-06-25
+ORD00439,Basil,Produce,1,2.19,2025-06-25
+ORD00440,Garlic Bread,Pasta,1,3.29,2025-10-26
+ORD00441,Marinara Sauce,Pasta,1,3.49,2025-06-10
+ORD00441,Bananas,Produce,1,1.79,2025-06-10
+ORD00441,Apples,Produce,1,3.99,2025-06-10
+ORD00441,Lettuce,Produce,1,2.29,2025-06-10
+ORD00442,Orange Juice,Beverages,1,4.49,2025-01-20
+ORD00442,Eggs,Breakfast,1,3.49,2025-01-20
+ORD00442,Milk,Breakfast,1,3.19,2025-01-20
+ORD00442,Butter,Breakfast,1,3.79,2025-01-20
+ORD00442,Coffee Beans,Beverages,1,8.99,2025-01-20
+ORD00442,Soap,Personal Care,2,2.99,2025-01-20
+ORD00442, Bread ,Breakfast,1,2.99,2025-01-20
+ORD00443,Avocado,Produce,1,1.29,2025-06-29
+ORD00443,Tortillas,Mexican,1,2.99,2025-06-29
+ORD00443,Shredded  Cheese,Dairy,1,4.29,2025-06-29
+ORD00443,Ground Beef,Meat,1,6.49,2025-06-29
+ORD00444,Marinara Sauce,Pasta,1,3.49,2025-11-27
+ORD00444,Soda,Beverages,1,4.99,2025-11-27
+ORD00444,Potato Chips,Snacks,1,3.99,2025-11-27
+ORD00444,Candy,Snacks,1,2.49,2025-11-27
+ORD00445,Dish Soap,Cleaning,1,3.29,2025-03-08
+ORD00445,Sponges,Cleaning,2,2.49,2025-03-08
+ORD00445,Trash Bags,Cleaning,1,6.49,2025-03-08
+ORD00446,Dish Soap,Cleaning,3,3.29,2025-04-29
+ORD00446,Laundry Detergent,Cleaning,1,8.99,2025-04-29
+ORD00446,Sponges,Cleaning,1,2.49,2025-04-29
+ORD00446,Trash Bags,Cleaning,1,6.49,2025-04-29
+ORD00447,Creamer,Breakfast,2,3.29,2025-10-22
+ORD00447,Bacon,Breakfast,1,5.99,2025-10-22
+ORD00448,Marinara Sauce,Pasta,1,3.49,2025-01-10
+ORD00448,Spaghetti,Pasta,1,1.79,2025-01-10
+ORD00448,Ketchup,Condiments,2,2.99,2025-01-10
+ORD00449,Creamer,Breakfast,3,3.29,2025-03-03
+ORD00449,Eggs,Breakfast,1,3.49,2025-03-03
+ORD00449,Coffee Beans,Beverages,1,8.99,2025-03-03
+ORD00449,bacon,Breakfast,1,5.99,2025-03-03
+ORD00449,Bread,Breakfast,2,2.99,2025-03-03
+ORD00450,Creamer,Breakfast,1,3.29,2025-01-23
+ORD00450,Orange Juice,Beverages,1,4.49,2025-01-23
+ORD00450,Milk,Breakfast,1,3.19,2025-01-23
+ORD00450,Coffee Beans,Beverages,1,8.99,2025-01-23
+ORD00450,Bread,Breakfast,2,2.99,2025-01-23
+ORD00451,Potato Chips,Snacks,2,3.99,2025-05-13
+ORD00451,Salsa,Mexican,1,3.49,2025-05-13
+ORD00451,Tortillas,Mexican,1,2.99,2025-05-13
+ORD00451,Pretzels,Snacks,1,3.49,2025-05-13
+ORD00451,Ground Beef,Meat,1,6.49,2025-05-13
+ORD00452,Butter,Breakfast,1,3.79,2025-03-24
+ORD00452,Ketchup,Condiments,2,2.99,2025-03-24
+ORD00452,Soda,Beverages,1,4.99,2025-03-24
+ORD00453,Baby Wipes,Baby,3,6.99,2025-01-16
+ORD00453,Diapers,Baby,1,19.99,2025-01-16
+ORD00453,Baby Food,Baby,1,4.99,2025-01-16
+ORD00454,Toothpaste,Personal Care,1,3.29,2025-09-10
+ORD00454,Pretzels,Snacks,2,3.49,2025-09-10
+ORD00454,Cookies,Snacks,2,3.99,2025-09-10
+ORD00454,Potato Chips,Snacks,1,3.99,2025-09-10
+ORD00455,Parmesan Cheese,Pasta,1,4.99,2025-10-15
+ORD00455,Spaghetti,Pasta,1,1.79,2025-10-15
+ORD00455,Marinara Sauce,Pasta,1,3.49,2025-10-15
+ORD00455,Basil,Produce,1,2.19,2025-10-15
+ORD00455,Ground Beef,Meat,2,6.49,2025-10-15
+ORD00456,Tortillas,Mexican,1,2.99,2025-08-18
+ORD00456,Shredded Cheese,Dairy,1,4.29,2025-08-18
+ORD00457,Orange Juice,Beverages,1,4.49,2025-06-09
+ORD00457,Eggs,Breakfast,1,3.49,2025-06-09
+ORD00457,Sour Cream,Dairy,1,2.29,2025-06-09
+ORD00457,Cereal,Breakfast,1,4.29,2025-06-09
+ORD00457,Milk,Breakfast,1,3.19,2025-06-09
+ORD00457,Butter,Breakfast,1,3.79,2025-06-09
+ORD00457,Coffee Beans,Beverages,1,8.99,2025-06-09
+ORD00457,Bread,Breakfast,1,2.99,2025-06-09
+ORD00458,Charcoal,Outdoor,1,7.99,2025-07-16
+ORD00458,Salsa,Mexican,3,3.49,2025-07-16
+ORD00458,Sour Cream,Dairy,2,2.29,2025-07-16
+ORD00458,Burger Buns,Bakery,1,2.79,2025-07-16
+ORD00458,Shredded Cheese,Dairy,1,4.29,2025-07-16
+ORD00458,Tortillas,Mexican,2,2.99,2025-07-16
+ORD00458,Bread,Breakfast,1,2.99,2025-07-16
+ORD00458,Ground Beef,Meat,2,6.49,2025-07-16
+ORD00459,Eggs,Breakfast,1,3.49,2025-11-16
+ORD00460,Laundry Detergent,Cleaning,1,8.99,2025-04-30
+ORD00460,Sponges,Cleaning,1,2.49,2025-04-30
+ORD00460,Trash Bags,Cleaning,1,6.49,2025-04-30
+ORD00460,Candy,Snacks,1,2.49,2025-04-30
+ORD00461,Creamer,Breakfast,1,3.29,2025-12-15
+ORD00461,Cereal,Breakfast,1,4.29,2025-12-15
+ORD00461,Milk,Breakfast,1,3.19,2025-12-15
+ORD00461,Butter,Breakfast,2,3.79,2025-12-15
+ORD00461,Coffee Filters,Breakfast,1,2.49,2025-12-15
+ORD00461,Bread,Breakfast,1,2.99,2025-12-15
+ORD00461,Bacon,Breakfast,2,5.99,2025-12-15
+ORD00461,Orange Juice,Beverages,1,4.49,2025-12-15
+ORD00462,Charcoal,Outdoor,1,7.99,2025-06-29
+ORD00462,Ketchup,Condiments,1,2.99,2025-06-29
+ORD00462,Soda,Beverages,2,4.99,2025-06-29
+ORD00462,Burger Buns,Bakery,1,2.79,2025-06-29
+ORD00462,Mustard,Condiments,1,2.29,2025-06-29
+ORD00462,Ground Beef,Meat,1,6.49,2025-06-29
+ORD00463,Creamer,Breakfast,3,3.29,2025-08-04
+ORD00463,Avocado,Produce,2,1.29,2025-08-04
+ORD00463,Apples,Produce,1,3.99,2025-08-04
+ORD00463,Lettuce,Produce,1,2.29,2025-08-04
+ORD00464,Pretzels,Snacks,1,3.49,2025-03-25
+ORD00464,Potato Chips,Snacks,1,3.99,2025-03-25
+ORD00465,Toothpaste,Personal Care,1,3.29,2025-12-05
+ORD00465,toilet paper,Personal Care,1,8.99,2025-12-05
+ORD00465,Butter,Breakfast,1,3.79,2025-12-05
+ORD00465,Bacon,Breakfast,1,5.99,2025-12-05
+ORD00465,Bread,Breakfast,1,2.99,2025-12-05
+ORD00466,Burger Buns,Bakery,1,2.79,2025-07-31
+ORD00466,Charcoal,Outdoor,1,7.99,2025-07-31
+ORD00466,Ketchup,Condiments,1,2.99,2025-07-31
+ORD00466,Ground Beef,Meat,2,6.49,2025-07-31
+ORD00467,Creamer,Breakfast,2,3.29,2025-10-29
+ORD00467,Eggs,Breakfast,3,3.49,2025-10-29
+ORD00467,Milk,Breakfast,1,3.19,2025-10-29
+ORD00467,Coffee Filters,Breakfast,1,2.49,2025-10-29
+ORD00467,Coffee Beans,Beverages,1,8.99,2025-10-29
+ORD00467,Bread,Breakfast,1,2.99,2025-10-29
+ORD00467,Bacon,Breakfast,2,5.99,2025-10-29
+ORD00467,Orange Juice,Beverages,2,4.49,2025-10-29
+ORD00468,Diapers,Baby,1,19.99,2025-08-17
+ORD00468,Toilet Paper,Personal Care,3,8.99,2025-08-17
+ORD00468,baby wipes,Baby,1,6.99,2025-08-17
+ORD00468,Soap,Personal Care,2,2.99,2025-08-17
+ORD00468,Trash Bags,Cleaning,1,6.49,2025-08-17
+ORD00469,Marinara Sauce,Pasta,2,3.49,2025-01-21
+ORD00469,Bananas,Produce,1,1.79,2025-01-21
+ORD00470,Coffee Filters,Breakfast,1,2.49,2025-11-10
+ORD00470,Bread,Breakfast,2,2.99,2025-11-10
+ORD00471,Baby Formula,Baby,1,22.99,2025-01-05
+ORD00472,Spaghetti,Pasta,1,1.79,2025-06-16
+ORD00472,Tomatoes,Produce,1,2.99,2025-06-16
+ORD00472,Basil,Produce,1,2.19,2025-06-16
+ORD00473,Soda,Beverages,1,4.99,2025-01-11
+ORD00473,Creamer,Breakfast,1,3.29,2025-01-11
+ORD00473,Toothpaste,Personal Care,2,3.29,2025-01-11
+ORD00473,Pretzels,Snacks,1,3.49,2025-01-11
+ORD00474,Creamer,Breakfast,2,3.29,2025-10-05
+ORD00474,Eggs,Breakfast,2,3.49,2025-10-05
+ORD00474,Bacon,Breakfast,2,5.99,2025-10-05
+ORD00475,Baby Formula,Baby,1,22.99,2025-06-03
+ORD00476,Coffee Beans,Beverages,1,8.99,2025-06-09
+ORD00476,Salsa,Mexican,1,3.49,2025-06-09
+ORD00476,Sour Cream,Dairy,1,2.29,2025-06-09
+ORD00476,Ground Beef,Meat,1,6.49,2025-06-09
+ORD00477,Bananas,Produce,1,1.79,2025-08-01
+ORD00477,LETTUCE,Produce,1,2.29,2025-08-01
+ORD00478,Laundry Detergent,Cleaning,2,8.99,2025-08-12
+ORD00479,Lime,Produce,1,0.59,2025-09-03
+ORD00479,Toilet Paper,Personal Care,2,8.99,2025-09-03
+ORD00479,Ground Beef,Meat,1,6.49,2025-09-03
+ORD00480, Soda ,Beverages,1,4.99,2025-05-23
+ORD00480,Baby Formula,Baby,1,22.99,2025-05-23
+ORD00480,Candy,Snacks,1,2.49,2025-05-23
+ORD00480,Cookies,Snacks,3,3.99,2025-05-23
+ORD00480,Potato Chips,Snacks,2,3.99,2025-05-23
+ORD00481,Marinara Sauce,Pasta,1,3.49,2025-01-23
+ORD00481,Spaghetti,Pasta,1,1.79,2025-01-23
+ORD00482,Spaghetti,Pasta,1,1.79,2025-09-01
+ORD00482,Orange Juice,Beverages,1,4.49,2025-09-01
+ORD00482,eggs,Breakfast,1,3.49,2025-09-01
+ORD00482,Marinara Sauce,Pasta,1,3.49,2025-09-01
+ORD00482,Cereal,Breakfast,1,4.29,2025-09-01
+ORD00482,Basil,Produce,1,2.19,2025-09-01
+ORD00482,Ground Beef,Meat,1,6.49,2025-09-01
+ORD00483,Creamer,Breakfast,1,3.29,2025-06-22
+ORD00483,Charcoal,Outdoor,1,7.99,2025-06-22
+ORD00483,Eggs,Breakfast,1,3.49,2025-06-22
+ORD00483,Milk,Breakfast,1,3.19,2025-06-22
+ORD00483,Coffee Beans,Beverages,1,8.99,2025-06-22
+ORD00483,Bacon,Breakfast,2,5.99,2025-06-22
+ORD00484,Marinara Sauce,Pasta,1,3.49,2025-01-20
+ORD00484,Garlic Bread,Pasta,1,3.29,2025-01-20
+ORD00484,Parmesan Cheese,Pasta,1,4.99,2025-01-20
+ORD00485,Potato Chips,Snacks,3,3.99,2025-01-17
+ORD00485,Candy,Snacks,1,2.49,2025-01-17
+ORD00486,Toothpaste,Personal Care,1,3.29,2025-08-13
+ORD00487,Paper Towels,Cleaning,1,5.49,2025-07-28
+ORD00487,Dish Soap,Cleaning,2,3.29,2025-07-28
+ORD00487,Laundry Detergent,Cleaning,1,8.99,2025-07-28
+ORD00487,Garlic Bread,Pasta,2,3.29,2025-07-28
+ORD00487,Sponges,Cleaning,1,2.49,2025-07-28
+ORD00487,Trash Bags,Cleaning,2,6.49,2025-07-28
+ORD00488,Marinara Sauce,Pasta,1,3.49,2025-08-31
+ORD00488,Spaghetti,Pasta,2,1.79,2025-08-31
+ORD00488,Parmesan Cheese,Pasta,1,4.99,2025-08-31
+ORD00489,Bananas,Produce,2,1.79,2025-07-23
+ORD00489,Avocado,Produce,1,1.29,2025-07-23
+ORD00489,Bread,Breakfast,1,2.99,2025-07-23
+ORD00490,Coffee Beans,Beverages,1,8.99,2025-10-24
+ORD00490,BANANAS,Produce,1,1.79,2025-10-24
+ORD00490,Tomatoes,Produce,1,2.99,2025-10-24
+ORD00491,Soda,Beverages,1,4.99,2025-12-28
+ORD00491,Candy,Snacks,3,2.49,2025-12-28
+ORD00492,Creamer,Breakfast,1,3.29,2025-10-08
+ORD00492,Eggs,Breakfast,1,3.49,2025-10-08
+ORD00492,Butter,Breakfast,2,3.79,2025-10-08
+ORD00492,Coffee Filters,Breakfast,1,2.49,2025-10-08
+ORD00492,Coffee Beans,Beverages,1,8.99,2025-10-08
+ORD00492,Bacon,Breakfast,1,5.99,2025-10-08
+ORD00492,Bread,Breakfast,1,2.99,2025-10-08
+ORD00493,Creamer,Breakfast,1,3.29,2025-08-31
+ORD00493,Soda,Beverages,1,4.99,2025-08-31
+ORD00493,Milk,Breakfast,1,3.19,2025-08-31
+ORD00493,Garlic Bread,Pasta,1,3.29,2025-08-31
+ORD00493,Bacon,Breakfast,2,5.99,2025-08-31
+ORD00494,Baby Wipes,Baby,1,6.99,2025-11-09
+ORD00494,Avocado,Produce,1,1.29,2025-11-09
+ORD00494,Sponges,Cleaning,1,2.49,2025-11-09
+ORD00495,Paper Towels,Cleaning,1,5.49,2025-07-29
+ORD00495,Laundry Detergent,Cleaning,1,8.99,2025-07-29
+ORD00495,Trash Bags,Cleaning,1,6.49,2025-07-29
+ORD00496,Basil,Produce,1,2.19,2025-09-26
+ORD00496,Potato Chips,Snacks,1,3.99,2025-09-26
+ORD00496,Shampoo,Personal Care,3,5.99,2025-09-26
+ORD00497,Avocado,Produce,1,1.29,2025-09-08
+ORD00497,Mustard,Condiments,1,2.29,2025-09-08
+ORD00497,Soda,Beverages,1,4.99,2025-09-08
+ORD00497,Lettuce,Produce,1,2.29,2025-09-08
+ORD00498,Toothpaste,Personal Care,1,3.29,2025-12-04
+ORD00498,Toilet Paper,Personal Care,1,8.99,2025-12-04
+ORD00498,Bottled Water,Beverages,3,4.49,2025-12-04
+ORD00498,Shampoo,Personal Care,1,5.99,2025-12-04
+ORD00498,Soap,Personal Care,1,2.99,2025-12-04
+ORD00499,Cookies,Snacks,1,3.99,2025-07-22
+ORD00499,Candy,Snacks,1,2.49,2025-07-22
+ORD00500,Creamer,Breakfast,1,3.29,2025-03-13
+ORD00500,Orange Juice,Beverages,1,4.49,2025-03-13
+ORD00500,Coffee Filters,Breakfast,1,2.49,2025-03-13
+ORD00500,Coffee Beans,Beverages,2,8.99,2025-03-13
+ORD00500,Bread,Breakfast,3,2.99,2025-03-13
+ORD00501,Parmesan Cheese,Pasta,1,4.99,2025-10-25
+ORD00501,Candy,Snacks,1,2.49,2025-10-25
+ORD00502,Avocado,Produce,1,1.29,2025-11-25
+ORD00502,Salsa,Mexican,1,3.49,2025-11-25
+ORD00502,Marinara Sauce,Pasta,1,3.49,2025-11-25
+ORD00502,Tortillas,Mexican,2,2.99,2025-11-25
+ORD00502,Cookies,Snacks,2,3.99,2025-11-25
+ORD00502,Ground Beef,Meat,1,6.49,2025-11-25
+ORD00503,Pretzels,Snacks,1,3.49,2025-11-27
+ORD00503,Cookies,Snacks,1,3.99,2025-11-27
+ORD00503,Potato Chips,Snacks,1,3.99,2025-11-27
+ORD00503,Candy,Snacks,2,2.49,2025-11-27
+ORD00504,Dish Soap,Cleaning,1,3.29,2025-07-17
+ORD00504,Ketchup,Condiments,1,2.99,2025-07-17
+ORD00504,Soda,Beverages,1,4.99,2025-07-17
+ORD00504,Burger Buns,Bakery,2,2.79,2025-07-17
+ORD00504,Ground Beef,Meat,2,6.49,2025-07-17
+ORD00505,Tomatoes,Produce,1,2.99,2025-09-02
+ORD00505,Tortillas,Mexican,1,2.99,2025-09-02
+ORD00505,Salsa,Mexican,2,3.49,2025-09-02
+ORD00505,Shredded Cheese,Dairy,1,4.29,2025-09-02
+ORD00506,Orange Juice,Beverages,1,4.49,2025-01-27
+ORD00506,Milk,Breakfast,1,3.19,2025-01-27
+ORD00506,Pretzels,Snacks,1,3.49,2025-01-27
+ORD00506,Coffee Beans,Beverages,1,8.99,2025-01-27
+ORD00506,Bacon,Breakfast,1,5.99,2025-01-27
+ORD00506,Bread,Breakfast,1,2.99,2025-01-27
+ORD00507,Candy,Snacks,1,2.49,2025-11-21
+ORD00508,Pretzels,Snacks,1,3.49,2025-11-09
+ORD00508,Potato Chips,Snacks,1,3.99,2025-11-09
+ORD00508,Candy,Snacks,1,2.49,2025-11-09
+ORD00509,Baby Wipes,Baby,2,6.99,2025-09-19
+ORD00509,Diapers,Baby,1,19.99,2025-09-19
+ORD00509,Baby Food,Baby,2,4.99,2025-09-19
+ORD00509,Bananas,Produce,1,1.79,2025-09-19
+ORD00510,Avocado,Produce,1,1.29,2025-01-26
+ORD00510,Potato Chips,Snacks,3,3.99,2025-01-26
+ORD00510,Orange Juice,Beverages,1,4.49,2025-01-26
+ORD00511,Avocado,Produce,1,1.29,2025-10-15
+ORD00511,Tomatoes,Produce,1,2.99,2025-10-15
+ORD00511,Lettuce,Produce,1,2.29,2025-10-15
+ORD00512,Avocado,Produce,1,1.29,2025-06-15
+ORD00512,Potato Chips,Snacks,2,3.99,2025-06-15
+ORD00512,Candy,Snacks,1,2.49,2025-06-15
+ORD00513,avocado,Produce,1,1.29,2025-09-17
+ORD00513,Dish Soap,Cleaning,1,3.29,2025-09-17
+ORD00513,Salsa,Mexican,1,3.49,2025-09-17
+ORD00513,Shredded Cheese,Dairy,1,4.29,2025-09-17
+ORD00513,Bread,Breakfast,1,2.99,2025-09-17
+ORD00514,Paper Towels,Cleaning,2,5.49,2025-11-02
+ORD00514,Dish Soap,Cleaning,1,3.29,2025-11-02
+ORD00514,Sponges,Cleaning,1,2.49,2025-11-02
+ORD00515,Shampoo,Personal Care,1,5.99,2025-05-16
+ORD00516,Paper Towels,Cleaning,1,5.49,2025-06-07
+ORD00516,Dish Soap,Cleaning,2,3.29,2025-06-07
+ORD00516,Sponges,Cleaning,1,2.49,2025-06-07
+ORD00516,Trash Bags,Cleaning,1,6.49,2025-06-07
+ORD00517,Potato Chips,Snacks,1,3.99,2025-05-16
+ORD00517,Marinara Sauce,Pasta,1,3.49,2025-05-16
+ORD00517,Sponges,Cleaning,1,2.49,2025-05-16
+ORD00517,Garlic Bread,Pasta,1,3.29,2025-05-16
+ORD00517,Cookies,Snacks,1,3.99,2025-05-16
+ORD00517,Pretzels,Snacks,1,3.49,2025-05-16
+ORD00518,Creamer,Breakfast,1,3.29,2025-12-15
+ORD00518,Eggs,Breakfast,1,3.49,2025-12-15
+ORD00518,Milk,Breakfast,1,3.19,2025-12-15
+ORD00518,Coffee Beans,Beverages,1,8.99,2025-12-15
+ORD00518,Trash Bags,Cleaning,1,6.49,2025-12-15
+ORD00518,Bacon,Breakfast,2,5.99,2025-12-15
+ORD00519,Avocado,Produce,1,1.29,2025-08-12
+ORD00519,Salsa,Mexican,1,3.49,2025-08-12
+ORD00519,Sour Cream,Dairy,2,2.29,2025-08-12
+ORD00519,Shredded Cheese,Dairy,1,4.29,2025-08-12
+ORD00519,Shampoo,Personal Care,1,5.99,2025-08-12
+ORD00519,Tortillas,Mexican,2,2.99,2025-08-12
+ORD00519,Bread,Breakfast,1,2.99,2025-08-12
+ORD00520,Creamer,Breakfast,2,3.29,2025-06-14
+ORD00520,Eggs,Breakfast,1,3.49,2025-06-14
+ORD00520, Milk ,Breakfast,1,3.19,2025-06-14
+ORD00520,Coffee Filters,Breakfast,1,2.49,2025-06-14
+ORD00520,Coffee Beans,Beverages,2,8.99,2025-06-14
+ORD00521,Lime,Produce,1,0.59,2025-08-18
+ORD00521,tortillas,Mexican,1,2.99,2025-08-18
+ORD00521,Ground Beef,Meat,1,6.49,2025-08-18
+ORD00522,Avocado,Produce,1,1.29,2025-02-24
+ORD00522,Salsa,Mexican,2,3.49,2025-02-24
+ORD00522,Toilet Paper,Personal Care,1,8.99,2025-02-24
+ORD00522,Lime,Produce,3,0.59,2025-02-24
+ORD00522,Tortillas,Mexican,1,2.99,2025-02-24
+ORD00523,Bottled Water,Beverages,1,4.49,2025-04-29
+ORD00523,Marinara Sauce,Pasta,1,3.49,2025-04-29
+ORD00523,Tortillas,Mexican,1,2.99,2025-04-29
+ORD00523,Orange Juice,Beverages,1,4.49,2025-04-29
+ORD00524,Tomatoes,Produce,1,2.99,2025-05-06
+ORD00524,Lettuce,Produce,2,2.29,2025-05-06
+ORD00525,Creamer,Breakfast,1,3.29,2025-12-16
+ORD00525,Eggs,Breakfast,2,3.49,2025-12-16
+ORD00525,Cereal,Breakfast,2,4.29,2025-12-16
+ORD00525,Butter,Breakfast,1,3.79,2025-12-16
+ORD00525,COFFEE FILTERS,Breakfast,2,2.49,2025-12-16
+ORD00525,Bacon,Breakfast,1,5.99,2025-12-16
+ORD00526,Dish Soap,Cleaning,1,3.29,2025-05-15
+ORD00526,Laundry Detergent,Cleaning,1,8.99,2025-05-15
+ORD00526,Sponges,Cleaning,1,2.49,2025-05-15
+ORD00526,Trash Bags,Cleaning,1,6.49,2025-05-15
+ORD00527,Parmesan Cheese,Pasta,1,4.99,2025-12-08
+ORD00527,Basil,Produce,1,2.19,2025-12-08
+ORD00527,Ground Beef,Meat,2,6.49,2025-12-08
+ORD00528,Paper Towels,Cleaning,3,5.49,2025-05-26
+ORD00528,Baby Wipes,Baby,2,6.99,2025-05-26
+ORD00528,Sponges,Cleaning,1,2.49,2025-05-26
+ORD00529,Soap,Personal Care,1,2.99,2025-07-13
+ORD00529,Eggs,Breakfast,1,3.49,2025-07-13
+ORD00530,Toilet Paper,Personal Care,1,8.99,2025-01-11
+ORD00530,Shampoo,Personal Care,2,5.99,2025-01-11
+ORD00531,Marinara Sauce,Pasta,1,3.49,2025-10-16
+ORD00531,Spaghetti,Pasta,1,1.79,2025-10-16
+ORD00531,Parmesan Cheese,Pasta,1,4.99,2025-10-16
+ORD00531,Ground Beef,Meat,1,6.49,2025-10-16
+ORD00532,Sponges,Cleaning,1,2.49,2025-09-10
+ORD00532,Toothpaste,Personal Care,1,3.29,2025-09-10
+ORD00532,Toilet Paper,Personal Care,2,8.99,2025-09-10
+ORD00532,Shampoo,Personal Care,1,5.99,2025-09-10
+ORD00533,Avocado,Produce,1,1.29,2025-01-24
+ORD00533,Charcoal,Outdoor,1,7.99,2025-01-24
+ORD00533,Tomatoes,Produce,1,2.99,2025-01-24
+ORD00533,Butter,Breakfast,1,3.79,2025-01-24
+ORD00533,Lettuce,Produce,1,2.29,2025-01-24
+ORD00534,paper towels,Cleaning,2,5.49,2025-11-02
+ORD00534,Parmesan Cheese,Pasta,1,4.99,2025-11-02
+ORD00534,Dish Soap,Cleaning,1,3.29,2025-11-02
+ORD00534,Coffee Beans,Beverages,2,8.99,2025-11-02
+ORD00534,Trash Bags,Cleaning,1,6.49,2025-11-02
+ORD00535,Potato Chips,Snacks,1,3.99,2025-05-02
+ORD00536,Soap,Personal Care,3,2.99,2025-03-20
+ORD00536,Toilet Paper,Personal Care,1,8.99,2025-03-20
+ORD00537,eggs,Breakfast,1,3.49,2025-01-13
+ORD00537,Sponges,Cleaning,1,2.49,2025-01-13
+ORD00537,Trash Bags,Cleaning,1,6.49,2025-01-13
+ORD00538,Bottled Water,Beverages,1,4.49,2025-07-10
+ORD00538,Dish Soap,Cleaning,1,3.29,2025-07-10
+ORD00539,Creamer,Breakfast,1,3.29,2025-12-30
+ORD00539,ORANGE JUICE,Beverages,1,4.49,2025-12-30
+ORD00539,Butter,Breakfast,1,3.79,2025-12-30
+ORD00539,Candy,Snacks,2,2.49,2025-12-30
+ORD00539,Coffee Beans,Beverages,1,8.99,2025-12-30
+ORD00539,Bread,Breakfast,1,2.99,2025-12-30
+ORD00540,Mustard,Condiments,1,2.29,2025-07-28
+ORD00540,Avocado,Produce,2,1.29,2025-07-28
+ORD00540,Diapers,Baby,1,19.99,2025-07-28
+ORD00541,Parmesan Cheese,Pasta,2,4.99,2025-04-26
+ORD00541,Spaghetti,Pasta,2,1.79,2025-04-26
+ORD00541,Basil,Produce,1,2.19,2025-04-26
+ORD00542,Candy,Snacks,1,2.49,2025-08-06
+ORD00543,Paper Towels,Cleaning,1,5.49,2025-02-05
+ORD00543,Laundry Detergent,Cleaning,2,8.99,2025-02-05
+ORD00543,Soda,Beverages,1,4.99,2025-02-05
+ORD00544,Parmesan Cheese,Pasta,1,4.99,2025-07-22
+ORD00544,Spaghetti,Pasta,1,1.79,2025-07-22
+ORD00544,Charcoal,Outdoor,3,7.99,2025-07-22
+ORD00544,Marinara Sauce,Pasta,1,3.49,2025-07-22
+ORD00544,Coffee Beans,Beverages,3,8.99,2025-07-22
+ORD00544,Ground Beef,Meat,1,6.49,2025-07-22
+ORD00545,Parmesan Cheese,Pasta,1,4.99,2025-12-24
+ORD00545,Spaghetti,Pasta,1,1.79,2025-12-24
+ORD00545,Toothpaste,Personal Care,2,3.29,2025-12-24
+ORD00545,Ground Beef,Meat,1,6.49,2025-12-24
+ORD00546,Baby Food,Baby,1,4.99,2025-12-26
+ORD00547,Baby Wipes,Baby,1,6.99,2025-05-21
+ORD00548,Coffee Beans,Beverages,1,8.99,2025-12-16
+ORD00549,Cookies,Snacks,1,3.99,2025-05-08
+ORD00549,Soda,Beverages,1,4.99,2025-05-08
+ORD00549,Potato Chips,Snacks,1,3.99,2025-05-08
+ORD00550,Parmesan Cheese,Pasta,1,4.99,2025-03-09
+ORD00550,PAPER TOWELS,Cleaning,1,5.49,2025-03-09
+ORD00550,Spaghetti,Pasta,1,1.79,2025-03-09
+ORD00550,Marinara Sauce,Pasta,1,3.49,2025-03-09
+ORD00550,Coffee Filters,Breakfast,1,2.49,2025-03-09
+ORD00550,Laundry Detergent,Cleaning,1,8.99,2025-03-09
+ORD00550,Garlic Bread,Pasta,1,3.29,2025-03-09
+ORD00550,Basil,Produce,1,2.19,2025-03-09
+ORD00551,Paper Towels,Cleaning,1,5.49,2025-09-14
+ORD00551,Dish Soap,Cleaning,1,3.29,2025-09-14
+ORD00551,sponges,Cleaning,1,2.49,2025-09-14
+ORD00552,paper towels,Cleaning,1,5.49,2025-04-24
+ORD00552,Dish Soap,Cleaning,1,3.29,2025-04-24
+ORD00552,Avocado,Produce,1,1.29,2025-04-24
+ORD00552,Soda,Beverages,1,4.99,2025-04-24
+ORD00552,Cookies,Snacks,1,3.99,2025-04-24
+ORD00552,Potato Chips,Snacks,1,3.99,2025-04-24
+ORD00553,PRETZELS,Snacks,1,3.49,2025-12-04
+ORD00553,Potato Chips,Snacks,2,3.99,2025-12-04
+ORD00553,Bacon,Breakfast,2,5.99,2025-12-04
+ORD00554,Diapers,Baby,1,19.99,2025-07-18
+ORD00554,Bananas,Produce,1,1.79,2025-07-18
+ORD00554,Baby Formula,Baby,3,22.99,2025-07-18
+ORD00554,Apples,Produce,1,3.99,2025-07-18
+ORD00554,Lettuce,Produce,1,2.29,2025-07-18
+ORD00555,Bananas,Produce,1,1.79,2025-04-26
+ORD00555,Dish Soap,Cleaning,1,3.29,2025-04-26
+ORD00555,Trash Bags,Cleaning,2,6.49,2025-04-26
+ORD00555,Lettuce,Produce,1,2.29,2025-04-26
+ORD00556,Bananas,Produce,1,1.79,2025-03-18
+ORD00556,Tomatoes,Produce,2,2.99,2025-03-18
+ORD00557,Cookies,Snacks,1,3.99,2025-01-18
+ORD00557,Toilet Paper,Personal Care,1,8.99,2025-01-18
+ORD00557,Bacon,Breakfast,1,5.99,2025-01-18
+ORD00558,Baby Wipes,Baby,1,6.99,2025-05-03
+ORD00558,Diapers,Baby,2,19.99,2025-05-03
+ORD00558,Baby Formula,Baby,1,22.99,2025-05-03
+ORD00559,Mustard,Condiments,1,2.29,2025-12-10
+ORD00560,Charcoal,Outdoor,1,7.99,2025-09-28
+ORD00560,Ketchup,Condiments,1,2.99,2025-09-28
+ORD00560,Soda,Beverages,1,4.99,2025-09-28
+ORD00560,Salsa,Mexican,1,3.49,2025-09-28
+ORD00560,Burger Buns,Bakery,1,2.79,2025-09-28
+ORD00560,Mustard,Condiments,1,2.29,2025-09-28
+ORD00560,Potato Chips,Snacks,1,3.99,2025-09-28
+ORD00561,Pretzels,Snacks,3,3.49,2025-12-17
+ORD00561,Eggs,Breakfast,1,3.49,2025-12-17
+ORD00561,Potato Chips,Snacks,1,3.99,2025-12-17
+ORD00562,Charcoal,Outdoor,1,7.99,2025-06-25
+ORD00562,Ketchup,Condiments,2,2.99,2025-06-25
+ORD00562,Sour Cream,Dairy,1,2.29,2025-06-25
+ORD00562,Lime,Produce,2,0.59,2025-06-25
+ORD00562,Burger Buns,Bakery,1,2.79,2025-06-25
+ORD00562,Shredded Cheese,Dairy,2,4.29,2025-06-25
+ORD00562,Potato Chips,Snacks,2,3.99,2025-06-25
+ORD00562,Ground Beef,Meat,1,6.49,2025-06-25
+ORD00563,Baby Wipes,Baby,1,6.99,2025-11-05
+ORD00563,Tortillas,Mexican,1,2.99,2025-11-05
+ORD00563,Salsa,Mexican,1,3.49,2025-11-05
+ORD00563,Ground Beef,Meat,2,6.49,2025-11-05
+ORD00564,Parmesan Cheese,Pasta,1,4.99,2025-02-18
+ORD00564,Spaghetti,Pasta,1,1.79,2025-02-18
+ORD00564,Soda,Beverages,2,4.99,2025-02-18
+ORD00564,Marinara Sauce,Pasta,1,3.49,2025-02-18
+ORD00564,Basil,Produce,1,2.19,2025-02-18
+ORD00565,Creamer,Breakfast,2,3.29,2025-11-25
+ORD00565,Eggs,Breakfast,1,3.49,2025-11-25
+ORD00565,Butter,Breakfast,2,3.79,2025-11-25
+ORD00565,Coffee Filters,Breakfast,1,2.49,2025-11-25
+ORD00565,Coffee Beans,Beverages,1,8.99,2025-11-25
+ORD00565,Bacon,Breakfast,1,5.99,2025-11-25
+ORD00566,Baby Wipes,Baby,3,6.99,2025-12-27
+ORD00566,Diapers,Baby,2,19.99,2025-12-27
+ORD00566,Bananas,Produce,2,1.79,2025-12-27
+ORD00567,Laundry Detergent,Cleaning,1,8.99,2025-07-14
+ORD00567,Tortillas,Mexican,1,2.99,2025-07-14
+ORD00567, Lettuce ,Produce,1,2.29,2025-07-14
+ORD00568,Marinara Sauce,Pasta,1,3.49,2025-01-25
+ORD00568,Garlic Bread,Pasta,1,3.29,2025-01-25
+ORD00568,Parmesan Cheese,Pasta,3,4.99,2025-01-25
+ORD00569,Avocado,Produce,2,1.29,2025-11-14
+ORD00569,Spaghetti,Pasta,1,1.79,2025-11-14
+ORD00569,Salsa,Mexican,1,3.49,2025-11-14
+ORD00569,Lime,Produce,2,0.59,2025-11-14
+ORD00569,Tortillas,Mexican,1,2.99,2025-11-14
+ORD00569,Bread,Breakfast,2,2.99,2025-11-14
+ORD00569,Ground Beef,Meat,1,6.49,2025-11-14
+ORD00570,Bananas,Produce,3,1.79,2025-12-21
+ORD00570,Apples,Produce,1,3.99,2025-12-21
+ORD00570,Lettuce,Produce,2,2.29,2025-12-21
+ORD00571,Dish Soap,Cleaning,1,3.29,2025-07-30
+ORD00571,Laundry Detergent,Cleaning,1,8.99,2025-07-30
+ORD00571,Soda,Beverages,1,4.99,2025-07-30
+ORD00571,Trash Bags,Cleaning,1,6.49,2025-07-30
+ORD00572,Creamer,Breakfast,1,3.29,2025-03-20
+ORD00572,Eggs,Breakfast,1,3.49,2025-03-20
+ORD00572,Cereal,Breakfast,1,4.29,2025-03-20
+ORD00572,Coffee Filters,Breakfast,1,2.49,2025-03-20
+ORD00572,Coffee Beans,Beverages,2,8.99,2025-03-20
+ORD00572,Bacon,Breakfast,1,5.99,2025-03-20
+ORD00572,Orange Juice,Beverages,2,4.49,2025-03-20
+ORD00573,Eggs,Breakfast,1,3.49,2025-11-14
+ORD00573,Toilet Paper,Personal Care,2,8.99,2025-11-14
+ORD00573,Butter,Breakfast,1,3.79,2025-11-14
+ORD00573,Shampoo,Personal Care,3,5.99,2025-11-14
+ORD00573,Soap,Personal Care,2,2.99,2025-11-14
+ORD00574,Bananas,Produce,2,1.79,2025-11-03
+ORD00574,Apples,Produce,1,3.99,2025-11-03
+ORD00574,Toothpaste,Personal Care,2,3.29,2025-11-03
+ORD00575,Marinara Sauce,Pasta,2,3.49,2025-04-20
+ORD00576,Salsa,Mexican,1,3.49,2025-06-24
+ORD00576,Sour Cream,Dairy,3,2.29,2025-06-24
+ORD00576,Shredded Cheese,Dairy,2,4.29,2025-06-24
+ORD00576,Tortillas,Mexican,1,2.99,2025-06-24
+ORD00576,Ground Beef,Meat,1,6.49,2025-06-24
+ORD00577,Toothpaste,Personal Care,1,3.29,2025-05-06
+ORD00577,Toilet Paper,Personal Care,1,8.99,2025-05-06
+ORD00578,Paper Towels,Cleaning,1,5.49,2025-10-21
+ORD00578,Sponges,Cleaning,2,2.49,2025-10-21
+ORD00579,Tomatoes,Produce,1,2.99,2025-05-28
+ORD00579,Lettuce,Produce,2,2.29,2025-05-28
+ORD00580,Creamer,Breakfast,1,3.29,2025-02-20
+ORD00580,Dish Soap,Cleaning,1,3.29,2025-02-20
+ORD00580,Eggs,Breakfast,1,3.49,2025-02-20
+ORD00580,Milk,Breakfast,2,3.19,2025-02-20
+ORD00580,Coffee Beans,Beverages,1,8.99,2025-02-20
+ORD00581,BABY WIPES,Baby,1,6.99,2025-02-17
+ORD00581,Diapers,Baby,1,19.99,2025-02-17
+ORD00582,Sponges,Cleaning,1,2.49,2025-08-26
+ORD00583,Marinara Sauce,Pasta,2,3.49,2025-10-12
+ORD00583,Coffee Beans,Beverages,1,8.99,2025-10-12
+ORD00583, Spaghetti ,Pasta,1,1.79,2025-10-12
+ORD00583,Ground Beef,Meat,1,6.49,2025-10-12
+ORD00584,Baby Wipes,Baby,1,6.99,2025-08-08
+ORD00585,Marinara Sauce,Pasta,1,3.49,2025-01-08
+ORD00585,Bananas,Produce,1,1.79,2025-01-08
+ORD00585,Baby Wipes,Baby,1,6.99,2025-01-08
+ORD00585,Tomatoes,Produce,1,2.99,2025-01-08
+ORD00585,Apples,Produce,2,3.99,2025-01-08
+ORD00585,baby food,Baby,1,4.99,2025-01-08
+ORD00586,Bottled Water,Beverages,3,4.49,2025-08-07
+ORD00587,Mustard,Condiments,2,2.29,2025-07-11
+ORD00588,Eggs,Breakfast,1,3.49,2025-06-19
+ORD00588,Milk,Breakfast,1,3.19,2025-06-19
+ORD00588,Butter,Breakfast,2,3.79,2025-06-19
+ORD00588,Bacon,Breakfast,3,5.99,2025-06-19
+ORD00588,Orange Juice,Beverages,1,4.49,2025-06-19
+ORD00589,paper towels,Cleaning,1,5.49,2025-01-20
+ORD00589,Sponges,Cleaning,1,2.49,2025-01-20
+ORD00589,Trash Bags,Cleaning,1,6.49,2025-01-20
+ORD00589,Lettuce,Produce,1,2.29,2025-01-20
+ORD00590,Marinara Sauce,Pasta,1,3.49,2025-11-14
+ORD00590,Sour Cream,Dairy,2,2.29,2025-11-14
+ORD00590,Parmesan Cheese,Pasta,1,4.99,2025-11-14
+ORD00590,Ground Beef,Meat,1,6.49,2025-11-14
+ORD00591,Toothpaste,Personal Care,2,3.29,2025-12-15
+ORD00591,Toilet Paper,Personal Care,1,8.99,2025-12-15
+ORD00591,Shampoo,Personal Care,3,5.99,2025-12-15
+ORD00591,Soap,Personal Care,2,2.99,2025-12-15
+ORD00591,Bread,Breakfast,1,2.99,2025-12-15
+ORD00592,Dish Soap,Cleaning,1,3.29,2025-08-11
+ORD00593,coffee beans,Beverages,1,8.99,2025-06-10
+ORD00594,Cereal,Breakfast,1,4.29,2025-06-12
+ORD00594,Ketchup,Condiments,1,2.99,2025-06-12
+ORD00594,Soda,Beverages,1,4.99,2025-06-12
+ORD00594,Ground Beef,Meat,1,6.49,2025-06-12
+ORD00595,Paper Towels,Cleaning,1,5.49,2025-01-23
+ORD00595,Dish Soap,Cleaning,3,3.29,2025-01-23
+ORD00595,Diapers,Baby,1,19.99,2025-01-23
+ORD00595,Trash Bags,Cleaning,1,6.49,2025-01-23
+ORD00596,Ground Beef,Meat,1,6.49,2025-08-24
+ORD00596,Marinara Sauce,Pasta,1,3.49,2025-08-24
+ORD00596,Butter,Breakfast,1,3.79,2025-08-24
+ORD00596,Tomatoes,Produce,2,2.99,2025-08-24
+ORD00596,Coffee Filters,Breakfast,1,2.49,2025-08-24
+ORD00596,Coffee Beans,Beverages,1,8.99,2025-08-24
+ORD00596,Bacon,Breakfast,1,5.99,2025-08-24
+ORD00596,Bread,Breakfast,1,2.99,2025-08-24
+ORD00597,Avocado,Produce,1,1.29,2025-02-09
+ORD00597,Trash Bags,Cleaning,2,6.49,2025-02-09
+ORD00597,Pretzels,Snacks,2,3.49,2025-02-09
+ORD00598,Milk,Breakfast,1,3.19,2025-06-10
+ORD00598,coffee filters,Breakfast,1,2.49,2025-06-10
+ORD00598,Bacon,Breakfast,1,5.99,2025-06-10
+ORD00598,Bread,Breakfast,2,2.99,2025-06-10
+ORD00599,Charcoal,Outdoor,1,7.99,2025-03-25
+ORD00599,Ketchup,Condiments,2,2.99,2025-03-25
+ORD00599,Burger Buns,Bakery,2,2.79,2025-03-25
+ORD00599,Mustard,Condiments,1,2.29,2025-03-25
+ORD00599,Potato Chips,Snacks,1,3.99,2025-03-25
+ORD00599,Ground Beef,Meat,1,6.49,2025-03-25
+ORD00600,Burger Buns,Bakery,1,2.79,2025-03-28
+ORD00600,Charcoal,Outdoor,2,7.99,2025-03-28
+ORD00600,Ketchup,Condiments,1,2.99,2025-03-28
+ORD00600,Shampoo,Personal Care,2,5.99,2025-03-28

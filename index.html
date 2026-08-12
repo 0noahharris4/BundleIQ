@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BundleIQ &mdash; Market Basket Analysis</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="app">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">&#9670;</span>
+      <span class="brand-name">BundleIQ</span>
+      <span class="badge">ML-powered</span>
+    </div>
+    <p class="topbar-sub">Upload a transaction file and BundleIQ finds which products get bought together &mdash; the exact "customers who bought this also bought" data behind bundling, cross-sell, and store-layout decisions.</p>
+  </header>
+
+  <section class="card upload-card" id="upload-section">
+    <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Upload a CSV or Excel file">
+      <div class="dropzone-icon">&#9670;</div>
+      <div class="dropzone-title">Drop your transactions file here, or click to browse</div>
+      <div class="dropzone-sub">CSV or Excel &mdash; one row per item purchased, grouped by order</div>
+      <input type="file" id="file-input" accept=".csv,.xlsx,text/csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">
+    </div>
+
+    <div class="upload-actions">
+      <button type="button" class="link-btn" id="sample-btn">&#9654; Try with sample data</button>
+      <span class="upload-divider">or</span>
+      <a class="link-btn ghost" id="template-link" href="/api/template" download>&#8595; Download CSV template</a>
+    </div>
+
+    <div class="schema-hint">
+      Needs a column for order ID and one for product name &mdash; BundleIQ auto-detects common column names (e.g. <code>order #</code>, <code>item</code>, <code>sku</code>). Optional: category, quantity, unit price (adds revenue estimates), order date (adds the seasonality chart).
+    </div>
+
+    <div class="upload-status" id="upload-status">
+      <span class="spinner"></span> <span id="upload-status-text">Analyzing your file&hellip;</span>
+    </div>
+
+    <div class="error-banner" id="error-banner" hidden></div>
+  </section>
+
+  <section class="card mapping-card" id="mapping-section" hidden>
+    <div class="card-header">
+      <div>
+        <h2>Match your columns</h2>
+        <p class="card-sub">We couldn't confidently tell which column is which. Match each field to a column from your file, then continue.</p>
+      </div>
+    </div>
+    <div class="mapping-grid" id="mapping-grid"></div>
+    <div class="error-banner" id="mapping-error" hidden></div>
+    <div class="mapping-actions">
+      <button type="button" class="link-btn" id="mapping-continue-btn">Continue</button>
+      <button type="button" class="link-btn ghost" id="mapping-cancel-btn">Cancel</button>
+    </div>
+  </section>
+
+  <section id="results-section" hidden>
+
+    <div class="results-topline">
+      <div class="results-source">Analyzed <strong id="results-filename">&mdash;</strong></div>
+      <button type="button" class="reset-link" id="reset-btn">&#8634; Analyze a different file</button>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi-tile">
+        <div class="kpi-title">Orders analyzed</div>
+        <div class="kpi-value" id="kpi-orders">&mdash;</div>
+      </div>
+      <div class="kpi-tile">
+        <div class="kpi-title">Unique products</div>
+        <div class="kpi-value" id="kpi-products">&mdash;</div>
+      </div>
+      <div class="kpi-tile">
+        <div class="kpi-title">Avg. items / order</div>
+        <div class="kpi-value" id="kpi-basket-size">&mdash;</div>
+      </div>
+      <div class="kpi-tile">
+        <div class="kpi-title">Associations found</div>
+        <div class="kpi-value" id="kpi-rules">&mdash;</div>
+        <div class="kpi-sub" id="kpi-rules-sub"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <h2>Top bundle opportunities</h2>
+          <p class="card-sub">The strongest product pairs by lift &mdash; how much more often they're bought together than chance would predict.</p>
+        </div>
+      </div>
+      <div class="bundle-grid" id="bundle-grid"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <h2>Product association heatmap</h2>
+          <p class="card-sub">Lift between each pair of your top products &mdash; darker/brighter means a stronger-than-chance association. Hover a cell for exact numbers.</p>
+        </div>
+      </div>
+      <div class="heatmap-scroll">
+        <div style="position:relative; display:inline-block;">
+          <table class="heatmap-table" id="heatmap-table"></table>
+          <div class="heatmap-tooltip" id="heatmap-tooltip"></div>
+        </div>
+      </div>
+      <div class="heatmap-legend">
+        <span>No association</span>
+        <span class="heatmap-legend-ramp"></span>
+        <span>Strong association</span>
+      </div>
+    </div>
+
+    <div class="card" id="seasonality-card" hidden>
+      <div class="card-header">
+        <div>
+          <h2>Seasonal demand</h2>
+          <p class="card-sub">Of each season's orders, what share included this product &mdash; brighter means the product over-indexes that season. Scan a column for a season's top sellers, or a row to see how one product's demand swings across the year.</p>
+        </div>
+      </div>
+      <div class="heatmap-scroll">
+        <div style="position:relative; display:inline-block;">
+          <table class="heatmap-table seasonality-table" id="seasonality-table"></table>
+          <div class="heatmap-tooltip" id="seasonality-tooltip"></div>
+        </div>
+      </div>
+      <div class="heatmap-legend">
+        <span>Below average</span>
+        <span class="heatmap-legend-ramp seasonality-ramp"></span>
+        <span>Peak season</span>
+      </div>
+      <p class="card-sub" id="seasonality-sub" style="margin-top:12px;"></p>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <h2>All discovered associations</h2>
+          <p class="card-sub">Every product pair that clears the significance thresholds, ranked by lift.</p>
+        </div>
+        <button type="button" class="link-btn ghost" id="export-rules-btn">&#8595; Export CSV</button>
+      </div>
+      <div class="rules-controls">
+        <input type="text" class="search-input" id="rules-search" placeholder="Search by product name&hellip;">
+        <span class="rules-count" id="rules-count"></span>
+      </div>
+      <div class="data-table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th data-sort="product_a">If a customer buys</th>
+              <th data-sort="product_b">&hellip;they also buy</th>
+              <th data-sort="support_pct">Support</th>
+              <th data-sort="confidence_pct">Confidence</th>
+              <th data-sort="lift" class="sorted">Lift</th>
+            </tr>
+          </thead>
+          <tbody id="rules-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <h2>Top products</h2>
+          <p class="card-sub" id="products-sub">Ranked by how many orders included them.</p>
+        </div>
+      </div>
+      <div class="product-list" id="product-list"></div>
+    </div>
+
+    <p class="footnote">Association strength is measured with standard market-basket metrics: <strong>support</strong> (how often a pair appears together), <strong>confidence</strong> (given the first product, how often the second follows), and <strong>lift</strong> (how much more often the pair occurs than random chance -- a lift of 1 means no relationship; this table only shows pairs above a minimum support and a lift greater than 1.15). Product names are matched case/whitespace-insensitively, so "Eggs", "EGGS", and " eggs" are counted as one product. Seasons are calendar-based (Winter = Dec&ndash;Feb, Spring = Mar&ndash;May, Summer = Jun&ndash;Aug, Fall = Sep&ndash;Nov) and only appear once an order-date column is provided. All analysis runs on the file you uploaded and is not stored.</p>
+  </section>
+
+  <div class="chat-widget" id="chat-widget" hidden>
+    <button type="button" class="chat-fab" id="chat-fab" aria-label="Chat with your data">
+      <span class="chat-fab-icon" aria-hidden="true">&#128172;</span>
+    </button>
+    <div class="chat-panel" id="chat-panel" hidden>
+      <div class="chat-panel-header">
+        <div>
+          <div class="chat-panel-title">Chat with your data</div>
+          <p class="chat-panel-sub">Answers come from an LLM grounded in this file's analysis, not a lookup &mdash; useful for exploring, but double-check anything you'll act on.</p>
+        </div>
+        <button type="button" class="chat-close-btn" id="chat-close-btn" aria-label="Close">&times;</button>
+      </div>
+
+      <div class="chat-messages" id="chat-messages"></div>
+
+      <form class="chat-input-row" id="chat-input-row">
+        <input type="text" id="chat-input" placeholder="e.g. what should I bundle with diapers?" autocomplete="off">
+        <button type="submit" class="chat-send-btn" id="chat-send-btn">Ask</button>
+      </form>
+      <div class="chat-error" id="chat-error" hidden></div>
+    </div>
+  </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
